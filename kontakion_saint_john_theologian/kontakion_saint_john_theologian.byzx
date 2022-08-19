@@ -1,0 +1,499 @@
+{
+  "version": "1.0",
+  "pageSetup": {
+    "pageSize": "A4",
+    "pageSizeUnit": "in",
+    "pageWidth": 795.8399999999999,
+    "pageHeight": 1122.24,
+    "topMargin": 38.400000000000006,
+    "bottomMargin": 38.400000000000006,
+    "leftMargin": 57.599999999999994,
+    "rightMargin": 57.599999999999994,
+    "headerMargin": 0,
+    "footerMargin": 48,
+    "lineHeight": 72,
+    "lyricsDefaultFontFamily": "Alegreya Medium",
+    "lyricsDefaultFontSize": 21.333333333333332,
+    "lyricsDefaultFontWeight": "400",
+    "lyricsDefaultColor": "#000000",
+    "lyricsVerticalOffset": -14.399999999999999,
+    "neumeDefaultFontFamily": "Neanes",
+    "neumeDefaultFontSize": 34.666666666666664,
+    "neumeDefaultColor": "#000000",
+    "neumeDefaultSpacing": 0,
+    "accidentalDefaultColor": "#800000",
+    "fthoraDefaultColor": "#800000",
+    "gorgonDefaultColor": "#800000",
+    "heteronDefaultColor": "#800000",
+    "measureBarDefaultColor": "#000000",
+    "measureNumberDefaultColor": "#000000",
+    "noteIndicatorDefaultColor": "#800000",
+    "isonDefaultColor": "#800000",
+    "tempoDefaultColor": "#800000",
+    "martyriaDefaultColor": "#800000",
+    "modeKeyDefaultColor": "#ED0000",
+    "dropCapDefaultFontFamily": "Alegreya ExtraBold",
+    "dropCapDefaultFontSize": 53.333333333333336,
+    "dropCapDefaultColor": "#800000",
+    "hyphenSpacing": 72
+  },
+  "headers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    }
+  },
+  "footers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "height": 19
+        }
+      ]
+    }
+  },
+  "staff": {
+    "elements": [
+      {
+        "elementType": "TextBox",
+        "alignment": "center",
+        "color": "#000000",
+        "content": "ΚΟΝΤΑΚΙΟΝ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ",
+        "fontSize": 24,
+        "fontFamily": "Alegreya",
+        "bold": true,
+        "height": 32
+      },
+      {
+        "elementType": "TextBox",
+        "alignment": "center",
+        "color": "#800000",
+        "content": "Χουρμουζίου Χαρτοφύλακος (†1840)",
+        "fontSize": 21.333333333333332,
+        "fontFamily": "Alegreya Medium",
+        "height": 29
+      },
+      {
+        "elementType": "ModeKey",
+        "templateId": 200,
+        "alignment": "center",
+        "mode": 2,
+        "scale": "SoftChromatic",
+        "scaleNote": "Thi",
+        "martyria": "ModeSign.SoftChromatic2",
+        "note": "ModeSign.Thi",
+        "fthoraAboveNote": "SoftChromaticThi_Top",
+        "color": "#800000",
+        "fontSize": 32,
+        "height": 60
+      },
+      {
+        "elementType": "DropCap",
+        "content": "Τ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "ison": "Ison.Unison",
+        "lyrics": "α"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "με"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "γα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "lyrics": "λει"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "KentemataPlusOligon",
+        "lyrics": "ει"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "ison": "Ison.Thi",
+        "lyrics": "α"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "σου"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "Παρ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Petasti",
+        "lyrics": "θε"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "νε"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "τις"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "δι"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "η"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "gorgonNeume": "Gorgon_Top",
+        "ison": "Ison.Vou",
+        "lyrics": "γη"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "η"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "σε"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "timeNeume": "Klasma_Top",
+        "lyrics": "ται"
+      },
+      {
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Vou",
+        "rootSign": "SoftChromaticSquiggle",
+        "scale": "SoftChromatic"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "βρυ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "εις"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "γαρ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "θαυ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "μα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "τα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "και"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "πη"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "vocalExpressionNeume": "Psifiston",
+        "lyrics": "γα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "ζεις"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "ι"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "α"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "KentemataPlusOligon",
+        "gorgonNeume": "Gorgon_Top",
+        "lyrics": "α"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "μα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "timeNeume": "Klasma_Top",
+        "ison": "Ison.Thi",
+        "lyrics": "τα"
+      },
+      {
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Thi",
+        "rootSign": "SoftChromaticSquiggle",
+        "scale": "SoftChromatic"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "και"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "πρεσ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "βευ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "εις"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "υ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "περ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "των"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "ψυ"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemata",
+        "vocalExpressionNeume": "Psifiston",
+        "lyrics": "χων"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "η"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "timeNeume": "Klasma_Top",
+        "lyrics": "μων"
+      },
+      {
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Thi",
+        "rootSign": "SoftChromaticSquiggle",
+        "scale": "SoftChromatic"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "ison": "Ison.Unison",
+        "lyrics": "ως"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "Θε"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "lyrics": "ο"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "vocalExpressionNeume": "Psifiston",
+        "lyrics": "λο"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "γος "
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "και"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemata",
+        "lyrics": "φι"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "lyrics": "λος"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "lyrics": "Χρι"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "timeNeume": "Dipli",
+        "lyrics": "στου"
+      },
+      {
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Thi",
+        "rootSign": "SoftChromaticSquiggle",
+        "scale": "SoftChromatic"
+      },
+      {
+        "elementType": "Empty"
+      }
+    ]
+  }
+}
