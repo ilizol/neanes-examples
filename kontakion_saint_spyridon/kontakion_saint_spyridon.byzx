@@ -23,7 +23,11 @@
     "neumeDefaultFontSize": 34.666666666666664,
     "neumeDefaultColor": "#000000",
     "neumeDefaultSpacing": -2.88,
-    "neumeDefaultStrokeWidth": 0,
+    "neumeDefaultStrokeWidth": 0.39999999999999997,
+    "modeKeyDefaultColor": "#800000",
+    "modeKeyDefaultStrokeWidth": 0.39999999999999997,
+    "modeKeyDefaultFontSize": 32,
+    "modeKeyDefaultHeightAdjustment": -18.666666666666668,
     "accidentalDefaultColor": "#800000",
     "accidentalDefaultStrokeWidth": 0.39999999999999997,
     "fthoraDefaultColor": "#800000",
@@ -42,8 +46,6 @@
     "isonDefaultStrokeWidth": 0.39999999999999997,
     "martyriaDefaultColor": "#800000",
     "martyriaDefaultStrokeWidth": 0.39999999999999997,
-    "modeKeyDefaultColor": "#ED0000",
-    "modeKeyDefaultStrokeWidth": 0,
     "tempoDefaultColor": "#800000",
     "tempoDefaultStrokeWidth": 0.39999999999999997,
     "dropCapDefaultFontFamily": "Alegreya",
@@ -64,6 +66,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -77,6 +80,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -90,6 +94,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -103,6 +108,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -118,6 +124,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -131,6 +138,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -144,6 +152,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -157,6 +166,7 @@
           "content": "",
           "fontSize": 16,
           "fontFamily": "Omega",
+          "strokeWidth": 0,
           "height": 19
         }
       ]
@@ -171,6 +181,7 @@
         "content": "ΚΟΝΤΑΚΙΟΝ ΑΓΙΟΥ ΣΠΥΡΙΔΩΝΟΣ",
         "fontSize": 24,
         "fontFamily": "Alegreya",
+        "strokeWidth": 0,
         "bold": true,
         "height": 32
       },
@@ -181,6 +192,7 @@
         "content": "Χουρμουζίου Χαρτοφύλακος (†1840)",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "height": 29
       },
       {
@@ -195,8 +207,10 @@
         "fthoraAboveNote": "SoftChromaticThi_Top",
         "color": "#800000",
         "fontSize": 32,
+        "strokeWidth": 0,
         "height": 41.33333333333333,
-        "heightAdjustment": -18.666666666666668
+        "heightAdjustment": -18.666666666666668,
+        "useDefaultStyle": true
       },
       {
         "elementType": "DropCap",
@@ -216,8 +230,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -239,8 +255,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -262,8 +280,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -284,8 +304,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -352,6 +374,7 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
         "height": 65
       },
@@ -380,8 +403,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -396,8 +421,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -418,8 +445,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -434,8 +463,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -491,8 +522,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -526,8 +559,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -542,8 +577,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -564,8 +601,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -587,8 +626,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -673,8 +714,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -696,8 +739,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -767,8 +812,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -801,8 +848,10 @@
         "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
         "inline": true,
-        "height": 65
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
