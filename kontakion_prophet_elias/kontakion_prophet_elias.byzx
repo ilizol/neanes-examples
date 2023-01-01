@@ -210,6 +210,7 @@
         "strokeWidth": 0,
         "height": 41.33333333333333,
         "heightAdjustment": -18.666666666666668,
+        "bpm": 120,
         "useDefaultStyle": true
       },
       {
@@ -488,6 +489,7 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
@@ -702,6 +704,7 @@
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
@@ -850,6 +853,7 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {

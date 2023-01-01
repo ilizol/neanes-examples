@@ -210,6 +210,7 @@
         "strokeWidth": 0,
         "height": 41.33333333333333,
         "heightAdjustment": -18.666666666666668,
+        "bpm": 120,
         "useDefaultStyle": true
       },
       {
@@ -353,6 +354,7 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
@@ -495,6 +497,7 @@
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
@@ -657,6 +660,7 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
@@ -699,7 +703,7 @@
         "elementType": "TextBox",
         "alignment": "left",
         "color": "#000000",
-        "content": "  ",
+        "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -724,7 +728,7 @@
         "elementType": "TextBox",
         "alignment": "left",
         "color": "#000000",
-        "content": "  ",
+        "content": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -765,9 +769,12 @@
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
+        "lineBreak": true,
+        "justify": true,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "lyrics": "αι",
@@ -890,6 +897,7 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
+        "bpm": 0,
         "spaceAfter": 0
       },
       {
