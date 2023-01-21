@@ -436,8 +436,7 @@
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "του",
-        "spaceAfter": 2
+        "lyrics": "του"
       },
       {
         "elementType": "TextBox",
@@ -456,14 +455,12 @@
         "quantitativeNeume": "PetastiWithIson",
         "timeNeume": "Klasma_Bottom",
         "ison": "Ison.Vou",
-        "lyrics": "Πνευ",
-        "spaceAfter": 2
+        "lyrics": "Πνευ"
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "μα",
-        "spaceAfter": 2.6666666666666665
+        "lyrics": "μα"
       },
       {
         "elementType": "Note",
