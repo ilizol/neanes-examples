@@ -1,17 +1,18 @@
 {
   "version": "1.0",
-  "appVersion": "0.2.0-alpha.60",
+  "appVersion": "0.4.0",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "in",
-    "pageWidth": 795.8399999999999,
-    "pageHeight": 1122.24,
+    "pageWidth": 793.7007874015749,
+    "pageHeight": 1122.5196850393702,
     "topMargin": 38.400000000000006,
     "bottomMargin": 38.400000000000006,
     "leftMargin": 59.519999999999996,
     "rightMargin": 59.519999999999996,
     "headerMargin": 0,
     "footerMargin": 0,
+    "firstPageNumber": 1,
     "lineHeight": 72,
     "lyricsDefaultFontFamily": "Alegreya Medium",
     "lyricsDefaultFontSize": 21.333333333333332,
@@ -215,11 +216,21 @@
         "height": 32.33333333333333,
         "heightAdjustment": -18.666666666666668,
         "bpm": 120,
-        "useDefaultStyle": true
+        "useDefaultStyle": true,
+        "ambitusLowNote": "Pa",
+        "ambitusLowRootSign": "Alpha",
+        "ambitusHighNote": "Pa",
+        "ambitusHighRootSign": "Alpha"
       },
       {
         "elementType": "DropCap",
-        "content": "Ω"
+        "content": "Ω",
+        "fontFamily": "Alegreya",
+        "fontSize": 53.333333333333336,
+        "fontWeight": "700",
+        "fontStyle": "normal",
+        "strokeWidth": 0,
+        "color": "#800000"
       },
       {
         "elementType": "Note",
