@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "appVersion": "0.4.0",
+  "appVersion": "0.4.3",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "in",
@@ -230,7 +230,8 @@
         "fontWeight": "700",
         "fontStyle": "normal",
         "strokeWidth": 0,
-        "color": "#800000"
+        "color": "#800000",
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
