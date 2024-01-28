@@ -315,6 +315,33 @@
       {
         "elementType": "Note",
         "quantitativeNeume": "Ison",
+        "lyrics": "κα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Petasti",
+        "lyrics": "θα"
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "περ"
+      },
+      {
+        "elementType": "TextBox",
+        "alignment": "left",
+        "color": "#000000",
+        "content": "",
+        "fontSize": 21.333333333333332,
+        "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
+        "inline": true,
+        "height": 65,
+        "useDefaultStyle": true
+      },
+      {
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
         "lyrics": "πυρ"
       },
       {
@@ -375,6 +402,18 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "lyrics": "ρις"
+      },
+      {
+        "elementType": "TextBox",
+        "alignment": "left",
+        "color": "#000000",
+        "content": "",
+        "fontSize": 21.333333333333332,
+        "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
+        "inline": true,
+        "height": 65,
+        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -474,7 +513,7 @@
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "φυ"
+        "lyrics": "φι"
       },
       {
         "elementType": "Note",
@@ -728,18 +767,6 @@
         "lyrics": "νης"
       },
       {
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "useDefaultStyle": true
-      },
-      {
         "elementType": "Note",
         "quantitativeNeume": "ElaphronPlusApostrophos",
         "lyrics": "υ"
@@ -854,18 +881,6 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "lyrics": "ων"
-      },
-      {
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
@@ -1011,18 +1026,6 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "lyrics": "γω"
-      },
-      {
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "useDefaultStyle": true
       },
       {
         "elementType": "Note",
