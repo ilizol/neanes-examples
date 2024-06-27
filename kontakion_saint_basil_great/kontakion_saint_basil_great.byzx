@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "appVersion": "0.4.3",
+  "version": "1.1",
+  "appVersion": "0.4.40",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "in",
@@ -59,7 +59,14 @@
     "dropCapDefaultFontStyle": "normal",
     "dropCapDefaultColor": "#800000",
     "dropCapDefaultStrokeWidth": 0,
-    "hyphenSpacing": 72
+    "textBoxDefaultFontFamily": "Alegreya Medium",
+    "textBoxDefaultFontSize": 21.333333333333332,
+    "textBoxDefaultFontWeight": "400",
+    "textBoxDefaultFontStyle": "normal",
+    "textBoxDefaultColor": "#000000",
+    "textBoxDefaultStrokeWidth": 0,
+    "hyphenSpacing": 72,
+    "chrysanthineAccidentals": true
   },
   "headers": {
     "default": {
@@ -69,6 +76,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -83,6 +93,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -97,6 +110,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -111,6 +127,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -127,6 +146,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -141,6 +163,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -155,6 +180,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -169,6 +197,9 @@
           "alignment": "left",
           "color": "#000000",
           "content": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
           "fontSize": 16,
           "fontFamily": "Omega",
           "strokeWidth": 0,
@@ -184,6 +215,9 @@
         "alignment": "center",
         "color": "#000000",
         "content": "ΚΟΝΤΑΚΙΟΝ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 24,
         "fontFamily": "Alegreya",
         "strokeWidth": 0,
@@ -195,6 +229,9 @@
         "alignment": "center",
         "color": "#800000",
         "content": "Χουρμουζίου Χαρτοφύλακος (†1840)",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -247,6 +284,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -269,6 +309,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -280,12 +323,15 @@
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaAbove",
         "vocalExpressionNeume": "Psifiston",
-        "lyrics": "α"
+        "lyrics": "α",
+        "isMelisma": true,
+        "isMelismaStart": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "α"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
@@ -303,6 +349,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -320,6 +369,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -342,25 +394,30 @@
         "quantitativeNeume": "DoubleApostrophos",
         "vareia": true,
         "lyrics": "σι",
+        "isMelisma": true,
+        "isMelismaStart": true,
         "vareiaOffsetX": 0.1
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "gorgonNeume": "GorgonDottedRight",
-        "lyrics": "ι"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "vareia": true,
-        "lyrics": "ι"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "gorgonNeume": "Gorgon_Top",
-        "lyrics": "ι"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
@@ -390,6 +447,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -412,6 +472,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -423,12 +486,15 @@
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaAbove",
         "vocalExpressionNeume": "Psifiston",
-        "lyrics": "α"
+        "lyrics": "α",
+        "isMelisma": true,
+        "isMelismaStart": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "α"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
@@ -446,6 +512,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -463,6 +532,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -500,6 +572,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -515,13 +590,17 @@
       {
         "elementType": "Note",
         "quantitativeNeume": "Petasti",
-        "lyrics": "τοι"
+        "lyrics": "τοι",
+        "isMelisma": true,
+        "isMelismaStart": true,
+        "isHyphen": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "οις"
+        "lyrics": "οις",
+        "acceptsLyrics": "MelismaOnly"
       },
       {
         "elementType": "Martyria",
@@ -554,19 +633,26 @@
       {
         "elementType": "Note",
         "quantitativeNeume": "ElaphronPlusApostrophos",
-        "lyrics": "ζω"
+        "lyrics": "ζω",
+        "isMelisma": true,
+        "isMelismaStart": true,
+        "isHyphen": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Kentemata",
         "gorgonNeume": "Gorgon_Bottom",
-        "lyrics": "ων"
+        "lyrics": "ων",
+        "acceptsLyrics": "MelismaOnly"
       },
       {
         "elementType": "TextBox",
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -584,6 +670,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -644,6 +733,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -660,12 +752,15 @@
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "vocalExpressionNeume": "Psifiston",
-        "lyrics": "σι"
+        "lyrics": "σι",
+        "isMelisma": true,
+        "isMelismaStart": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "ι"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
@@ -682,6 +777,9 @@
         "alignment": "left",
         "color": "#000000",
         "content": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
@@ -693,24 +791,30 @@
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaBelow",
         "vocalExpressionNeume": "Psifiston",
-        "lyrics": "Ο"
+        "lyrics": "Ο",
+        "isMelisma": true,
+        "isMelismaStart": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "ο"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "vareia": true,
         "lyrics": "σι",
+        "isMelisma": true,
+        "isMelismaStart": true,
         "vareiaOffsetX": 0.1
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "ι"
+        "acceptsLyrics": "MelismaOnly",
+        "isMelisma": true
       },
       {
         "elementType": "Note",
@@ -728,6 +832,9 @@
       {
         "elementType": "Empty"
       }
-    ]
+    ],
+    "lyrics": {
+      "text": "Ω_ φθεις βα σις α σει στος τη Εκ κλη σι α νε μων πα σιν α συ λον την κυ ρι ο τη τα βρο τοις ε πι σφρα γι ζων σοις δο γμα σιν Ου ρα νο φα ντορ Βα σι λει ε Ο σι ε"
+    }
   }
 }

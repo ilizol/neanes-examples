@@ -2,10 +2,12 @@
   <head>
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.17/dist/Neanes.css"
+      href="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.21/dist/Neanes.css"
     />
     
-    <script src="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.17/dist/byzhtml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.21/dist/byzhtml.min.js"></script>
+
+    
 
     <meta
       name="viewport"
@@ -100,6 +102,11 @@
         align-items: center;
       }
 
+      .byz---rich-text-box {
+        font-family: Alegreya Medium;
+        font-size: 16pt;
+      }
+
       .byz--image-box {
         display: flex;
         align-items: center;
@@ -155,6 +162,7 @@
         flex-wrap: wrap;
         justify-content: space-between;
         margin-bottom: 26pt;
+        
       }
 
       .byz--neume-paragraph:last-child {
@@ -168,8 +176,8 @@
     </style>
   </head>
   <body>
-    <div class="byz--text-box" style="color: #000000;font-family: 'Alegreya', 'Omega';font-size: 18pt;font-weight: 700;font-style: normal;-webkit-text-stroke-width: 0;text-align: center;">ΑΠΟΛΥΤΙΚΙΟΝ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ</div
-    ><div class="byz--text-box" style="color: #800000;font-family: 'Alegreya Medium', 'Omega';font-size: 16pt;font-weight: 400;font-style: normal;-webkit-text-stroke-width: 0;text-align: center;">Χουρμουζίου Χαρτοφύλακος (†1840)</div
+    <div class="byz--text-box" style="color: #000000;font-family: 'Alegreya', 'Omega';font-size: 18pt;font-weight: 700;font-style: normal;line-height: null;-webkit-text-stroke-width: 0;text-align: center;">ΑΠΟΛΥΤΙΚΙΟΝ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ</div
+    ><div class="byz--text-box" style="color: #800000;font-family: 'Alegreya Medium', 'Omega';font-size: 16pt;font-weight: 400;font-style: normal;line-height: null;-webkit-text-stroke-width: 0;text-align: center;">Χουρμουζίου Χαρτοφύλακος (†1840)</div
     ><div class="byz--mode-key" style="text-align: center;"
       ><x-mode-word-echos></x-mode-word-echos
       ><x-mode-plagal></x-mode-plagal
@@ -601,8 +609,7 @@
       ><x-n
         ><x-y></x-y
         ><x-g class="byz--g"></x-g
-        ><x-ly>ω</x-ly
-      ></x-n
+        ></x-n
       ><div class="byz--text-box byz--text-box-inline" style="text-align: left;"></div
     ><x-n
         ><x-o></x-o
