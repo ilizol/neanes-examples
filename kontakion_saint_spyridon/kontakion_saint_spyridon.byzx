@@ -891,18 +891,21 @@
         "quantitativeNeume": "Ison",
         "lyrics": "ε",
         "isMelisma": true,
-        "isMelismaStart": true
+        "isMelismaStart": true,
+        "isHyphen": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "KentemataPlusOligon",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "isHyphen": true
       },
       {
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "ελ"
+        "lyrics": "ελ",
+        "acceptsLyrics": "MelismaOnly"
       },
       {
         "elementType": "Note",
@@ -927,7 +930,7 @@
       }
     ],
     "lyrics": {
-      "text": "Τω πο θω Χρι στου τρω θεις Ι ε ρω τα τε τον νουν πτε ρω θεις τη αι γλη του Πνευ μα τος πρα κτι κη θε ω ρι α την πρα ξιν ευ ρες θε ο πνευ στε θυ σι α στη ρι ον θει ον γε νο με νος αι του με νος πα σι θει αν ε ελ λαμ ψιν"
+      "text": "Τω πο θω Χρι στου τρω θεις Ι ε ρω τα τε τον νουν πτε ρω θεις τη αι γλη του Πνευ μα τος πρα κτι κη θε ω ρι α την πρα ξιν ευ ρες θε ο πνευ στε θυ σι α στη ρι ον θει ον γε νο με νος αι του με νος πα σι θει αν ελ λαμ ψιν"
     }
   }
 }
