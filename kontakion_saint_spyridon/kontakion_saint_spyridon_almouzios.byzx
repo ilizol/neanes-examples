@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.4.61",
+  "appVersion": "0.4.63",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "mm",
@@ -60,7 +60,6 @@
     "dropCapDefaultFontStyle": "normal",
     "dropCapDefaultColor": "#800000",
     "dropCapDefaultStrokeWidth": 0,
-    "dropCapDefaultLineHeight": 1.33,
     "textBoxDefaultFontFamily": "Alegreya Medium",
     "textBoxDefaultFontSize": 21.333333333333332,
     "textBoxDefaultFontWeight": "400",
