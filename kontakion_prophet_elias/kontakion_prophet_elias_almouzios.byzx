@@ -13,14 +13,14 @@
     "headerMargin": 0,
     "footerMargin": 0,
     "firstPageNumber": 1,
-    "lineHeight": 79.93700787401575,
+    "lineHeight": 80.0012598425197,
     "lyricsDefaultFontFamily": "Alegreya Medium",
     "lyricsDefaultFontSize": 21.333333333333332,
     "lyricsDefaultFontWeight": "400",
     "lyricsDefaultFontStyle": "normal",
     "lyricsDefaultColor": "#000000",
     "lyricsDefaultStrokeWidth": 0,
-    "lyricsVerticalOffset": 0,
+    "lyricsVerticalOffset": -2.9518110236220476,
     "lyricsMinimumSpacing": 0,
     "lyricsMelismaCutoffWidth": 6.666666666666667,
     "neumeDefaultFontFamily": "Almouzios",
@@ -272,10 +272,10 @@
         "color": "#800000",
         "fontSize": 34.666666666666664,
         "strokeWidth": 0,
-        "height": 42,
+        "height": 46,
         "heightAdjustment": 0,
-        "marginTop": 2.6666666666666665,
-        "marginBottom": 2,
+        "marginTop": 0,
+        "marginBottom": 0,
         "bpm": 120,
         "ambitusLowNote": "Pa",
         "ambitusLowRootSign": "Alpha",
@@ -289,7 +289,6 @@
         "fontSize": 53.333333333333336,
         "fontWeight": "700",
         "fontStyle": "normal",
-        "lineHeight": 1.33,
         "strokeWidth": 0,
         "color": "#800000",
         "useDefaultStyle": true
@@ -332,7 +331,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -354,7 +353,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -388,7 +387,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -411,7 +410,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -460,7 +459,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -488,7 +487,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -520,7 +519,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -588,7 +587,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -610,7 +609,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -643,7 +642,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -665,7 +664,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -694,7 +693,7 @@
         "fontFamily": "Alegreya ExtraBold",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -717,7 +716,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -762,7 +761,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -845,7 +844,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -872,7 +871,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -899,7 +898,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -921,7 +920,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -950,7 +949,7 @@
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
         "inline": true,
-        "height": 42,
+        "height": 46,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
