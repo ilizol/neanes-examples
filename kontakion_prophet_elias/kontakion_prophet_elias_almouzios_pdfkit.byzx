@@ -20,7 +20,7 @@
     "lyricsDefaultFontStyle": "normal",
     "lyricsDefaultColor": "#000000",
     "lyricsDefaultStrokeWidth": 0,
-    "lyricsVerticalOffset": -0.3333333333333333,
+    "lyricsVerticalOffset": -2,
     "lyricsMinimumSpacing": 0,
     "lyricsMelismaCutoffWidth": 6.666666666666667,
     "neumeDefaultFontFamily": "Almouzios",
