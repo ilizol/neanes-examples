@@ -6,10 +6,10 @@
     "pageSizeUnit": "pt",
     "pageWidth": 793.7007874015749,
     "pageHeight": 1122.5196850393702,
-    "topMargin": 0,
-    "bottomMargin": 0,
-    "leftMargin": 0,
-    "rightMargin": 0,
+    "topMargin": 38.666666666666664,
+    "bottomMargin": 38.666666666666664,
+    "leftMargin": 61.333333333333336,
+    "rightMargin": 61.333333333333336,
     "headerMargin": 0,
     "footerMargin": 0,
     "firstPageNumber": 1,
@@ -231,7 +231,7 @@
     "elements": [
       {
         "elementType": "TextBox",
-        "alignment": "right",
+        "alignment": "center",
         "color": "#000000",
         "content": "ΚΟΝΤΑΚΙΟΝ ΠΡΟΦΗΤΗ ΗΛΙΑ",
         "contentLeft": "",
@@ -248,7 +248,7 @@
       },
       {
         "elementType": "TextBox",
-        "alignment": "right",
+        "alignment": "center",
         "color": "#800000",
         "content": "Χουρμουζίου Χαρτοφύλακος (†1840)",
         "contentLeft": "",
@@ -257,14 +257,15 @@
         "fontSize": 21.333333333333332,
         "fontFamily": "Alegreya Medium",
         "strokeWidth": 0,
-        "height": 29,
+        "height": 28.666666666666668,
+        "customHeight": 28.666666666666668,
         "marginTop": 0,
         "marginBottom": 0
       },
       {
         "elementType": "ModeKey",
         "templateId": 200,
-        "alignment": "right",
+        "alignment": "center",
         "mode": 2,
         "scale": "SoftChromatic",
         "scaleNote": "Thi",
@@ -274,12 +275,11 @@
         "color": "#800000",
         "fontSize": 34.666666666666664,
         "strokeWidth": 0,
-        "height": 46,
-        "heightAdjustment": 0,
+        "height": 44.666666666666664,
+        "heightAdjustment": -1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "bpm": 120,
-        "useDefaultStyle": true,
         "ambitusLowNote": "Pa",
         "ambitusLowRootSign": "Alpha",
         "ambitusHighNote": "Pa",
@@ -988,14 +988,6 @@
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
-      },
-      {
-        "elementType": "Martyria",
-        "auto": true,
-        "note": "Thi",
-        "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "alignRight": true
       },
       {
         "elementType": "Empty"
