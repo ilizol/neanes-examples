@@ -1,6 +1,6 @@
 {
-  "appVersion": "0.4.75",
-  "schemaVersion": 1,
+  "appVersion": "0.4.79",
+  "schemaVersion": 2,
   "sectionNames": [],
   "fontVersions": {
     "Almouzios": "1.0.0",
@@ -24,7 +24,7 @@
       "textBox": 16
     },
     "dropCapDefaultFontWeight": "700",
-    "lyricsVerticalOffset": -8.25,
+    "lyricsVerticalOffset": 26.25,
     "lyricsMelismaSpacing": 1.8,
     "lyricsMelismaThickness": 0.75,
     "colors": {
