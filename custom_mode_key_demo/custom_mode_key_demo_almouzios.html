@@ -1,0 +1,862 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/Neanes.css"
+    />
+    
+    <script src="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/byzhtml.min.js"></script>
+
+    
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+
+    <meta charset="UTF-8">
+
+    <style>
+      @font-face {
+        font-family: 'Almouzios';
+        /* TODO change this */
+        /* src: url(https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/Almouzios.otf); */
+        /* src: url(https://cdn.jsdelivr.net/gh/ilizol/Almouzios/Almouzios.otf); */
+        /* TODO change this for debug */
+        src: url(../../Almouzios/Almouzios.otf);
+        unicode-range: U+E000–F8FF;
+      }
+
+      :root {
+        --byz-neume-font-family: Almouzios;
+        --byz-neume-font-size: 20pt;
+        
+        --byz-lyric-font-family: GFS Didot;
+        --byz-lyric-font-size: 12pt;
+        --byz-lyric-offset-h: 3.6pt;
+        --byz-lyric-offset-v: 0pt;
+
+        --byz-drop-cap-font-family: GFS Didot;
+        --byz-drop-cap-font-size: 30pt;
+        --byz-drop-cap-offset-v: 29.25pt;
+        --byz-drop-cap-color: #000000;
+
+        --byz-color-accidental: #800000;
+        --byz-color-agogi: #800000;
+        --byz-color-barline: #800000;
+        --byz-color-fthora: #800000;
+        --byz-color-gorgon: #800000;
+        --byz-color-heteron: #800000;
+        --byz-color-ison-indicator: #800000;
+        --byz-color-koronis: #800000;
+        --byz-color-martyria: #800000;
+        --byz-color-measure-number: #000000;
+        --byz-color-note-indicator: #800000;
+      }
+      
+      body {
+        margin: 72px 72px 72px 72px;
+      }
+
+      @page {
+        margin: 72px 72px 72px 72px;
+        size: A4 portrait
+      }
+
+      @media print {
+        body {
+          margin: 0;
+        }
+      }
+
+      @media screen and (max-width: 768px) {
+        body {
+          margin: 24px;
+        }
+      }
+
+      x-ly {
+        color: #000000;
+      }
+
+      x-dc {
+        font-weight: 400;
+        font-style: normal;
+        -webkit-text-stroke-width: 0;
+      }
+
+      x-gor, x-pel {
+        --byz-neume-font-size: 12pt;
+        line-height: 12pt;
+      }
+
+      x-m.byz--m-align-right {
+        margin-left: auto;
+      }
+
+      .byz--line-break {
+        margin-left: auto;
+      }
+
+      .byz--text-box {
+        white-space: break-spaces;
+        font-family: GFS Didot;
+        font-size: 12pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+        -webkit-text-stroke-width: 0;
+      }
+
+      .byz--text-box-inline {
+        display: flex;
+        align-items: center;
+      }
+
+      .byz---rich-text-box {
+        font-family: GFS Didot;
+        font-size: 12pt;
+      }
+
+      .byz--image-box {
+        display: flex;
+        align-items: center;
+      }
+
+      .byz--mode-key {
+        position: relative;
+        font-size: 20pt;
+        color: #ED0000;
+        -webkit-text-stroke-width: 0;
+      }
+
+      .byz--mode-key-right-container {
+        position: absolute;
+        right: 0;
+      } 
+
+      .byz--mode-key-ambitus {
+        position: relative;
+        top: -4px;
+      }
+
+      .byz--mode-key-ambitus-text {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .byz--mode-key-ambitus-low {
+        margin-right: 10px;
+        position: relative;
+        top: -12px;
+      }
+
+      .byz--mode-key-ambitus-high {
+        margin-left: 2px;
+        margin-right: 4px;
+        position: relative;
+        top: -12px;
+      }
+
+      .byz--mode-key .byz--t {
+        position: relative;
+        top: -9pt;
+        margin-left: 8px;
+      }
+
+      .byz--mode-key .byz--t-align-right {
+        position: absolute;
+        right: 0;
+      }
+
+      .byz--neume-paragraph {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 20pt;
+        
+      }
+
+      .byz--neume-paragraph:last-child {
+        margin-bottom: 0;
+      }
+
+      .byz--neume-paragraph-center {
+        justify-content: center;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="byz--text-box" style="color: #000000;font-family: 'Source Serif', 'Omega';font-size: 20pt;font-weight: 400;font-style: normal;line-height: null;-webkit-text-stroke-width: 0;text-align: center;">Custom Mode Key Demo</div
+    ><div class="byz---rich-text-box" style=""><p style="text-align:center;"><span style="color:hsl(0,100%,25%);"><span style="font-family:'GFS Didot', Neanes;"><strong>Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</strong></span></span></p><p style="text-align:center;"><span style="color:hsl(0,100%,25%);"><span style="font-family:'GFS Didot', Neanes;"><strong>Βυζαντίου. &nbsp; Ωδή. α. &nbsp; ήχος. &nbsp;&nbsp;</strong></span></span><strong><span class="neanes-ck-neume neanes-ck-neume-plagal ck-widget" style="color:#800000;font-size:16px;height:16px;left:0em;line-height:0.7;margin-left:0em;margin-right:0em;top:0em;" neumetype="plagal" contenteditable="false"><span>λ</span><span>π</span></span>&nbsp;</strong><span class="neanes-ck-neume ck-widget" style="color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;" neumetype="single" neume="ModeSign.Delta" contenteditable="false"></span><span style="color:hsl(0,100%,25%);"><strong>. &nbsp;&nbsp;</strong><span style="font-family:'GFS Didot', Neanes;"><strong>Νη.</strong></span></span></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>θ</x-dc
+      ><x-n
+        ><x-o3></x-o3
+        ><x-ly>Α</x-ly
+      ></x-n
+      ><x-n
+        ><x-k></x-k
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-kl></x-kl
+        ><x-ly>λασ</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>σαν</x-ly
+      ></x-n
+      ><x-n
+        ><x-k></x-k
+        ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ε</x-ly
+      ></x-n
+      ><x-n
+        ><x-o-e-k></x-o-e-k
+        ><x-g class="byz--g"></x-g
+        ><x-ly>πη</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>η</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-dipli></x-dipli
+        ><x-ly>ξας</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-di></x-m-di
+        ><x-m-delta-aa></x-m-delta-aa
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-n
+        ><x-ok></x-ok
+        ><x-psi></x-psi
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ζο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-p2></x-p2
+        ><x-ly>με</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-dipli></x-dipli
+        ><x-ly>εν</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>Τ</x-dc
+      ><x-n
+        ><x-i></x-i
+        ><x-ly>Ων</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-ly>πα</x-ly
+      ></x-n
+      ><x-n
+        ><x-o3></x-o3
+        ><x-et-c></x-et-c
+        ><x-kl-b></x-kl-b
+        ><x-ly>θω</x-ly
+      ></x-n
+      ><x-n
+        ><x-o-i-k></x-o-i-k
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ω</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ω</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ων</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-ly>του</x-ly
+      ></x-n
+      ><x-n
+        ><x-k></x-k
+        ><x-ly>ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>Κυ</x-ly
+      ></x-n
+      ><x-n
+        ><x-p0></x-p0
+        ><x-ly>ρι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-re></x-re
+        ><x-et-c></x-et-c
+        ><x-ly>ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-o-i-k></x-o-i-k
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-e></x-e
+        ><x-kl></x-kl
+        ><x-ly>ου</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-n
+        ><x-o></x-o
+        ><x-anti></x-anti
+        ><x-g class="byz--g"></x-g
+        ><x-ly>η</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>η</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-dipli></x-dipli
+        ><x-ly>σου</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""><p style="text-align:center;"><span style="color:hsl(0,100%,25%);"><strong>Τη Αγία καί μεγάλη Δευτέρα. Πέτρου Λαμπαδ.</strong></span></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>Τ</x-dc
+      ><x-n
+        ><x-o3></x-o3
+        ><x-tripli></x-tripli
+        ><x-ly>Ω</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-a></x-a
+        ><x-et-c left="-0.1875em" top="0.056249999999999994em"></x-et-c
+        ><x-dipli></x-dipli
+        ><x-ly>τη</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ην</x-ly
+      ></x-n
+      ><x-n
+        ><x-p2></x-p2
+        ><x-kl-b></x-kl-b
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-a></x-a
+        ><x-ly>βα</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-i></x-i
+        ><x-ly>το</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-apli></x-apli
+        ><x-ly>ον</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>κυ</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>μαι</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>νο</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>με</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-a></x-a
+        ><x-ly>νη</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-g class="byz--g"></x-g
+        ><x-ly>η</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>ην</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-psi></x-psi
+        ><x-ly>θα</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>λα</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ασ</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-kl></x-kl
+        ><x-ly>σαν</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-pa></x-m-pa
+        ><x-m-hc-pa></x-m-hc-pa
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-dc>Β</x-dc
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>Ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>λευ</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>τη</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ρι</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-i></x-i
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-et-c></x-et-c
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ον</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""><p><span style="color:hsl(0,100%,25%);"><strong>&nbsp; Έτερον. Κατεπλάγη</strong></span></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-m class="byz--m-align-right"
+        ><x-m-di></x-m-di
+        ><x-m-hc-di></x-m-hc-di
+        ></x-m
+      ></div
+      ><div class="byz--neume-paragraph"
+      ><x-dc>Β</x-dc
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>Ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>λευ</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>τη</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ρι</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-i></x-i
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-et-c></x-et-c
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ον</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""><p><span style="color:hsl(0,100%,25%);"><strong>&nbsp; Έτερον. Κατεπλάγη</strong></span></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>Β</x-dc
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>Ου</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>λευ</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>τη</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ρι</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-i></x-i
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-et-c></x-et-c
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ον</x-ly
+      ></x-n
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""><p><span style="color:hsl(0,100%,25%);"><strong>&nbsp; Έτερον. Κατεπλάγη</strong></span></p></div
+    ><div class="byz---rich-text-box" style=""><p style="text-align:center;"><span style="color:hsl(0,100%,25%);"><strong>Έτερον σύντομον</strong></span><span class="neanes-ck-neume neanes-ck-neume-align-right ck-widget" style="color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.8em;" neumetype="martyria" alignright="true" martyrianote="Thi" martyriarootsign="SoftChromaticSquiggle" contenteditable="false"></span></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>Α</x-dc
+      ><x-n
+        ><x-p></x-p
+        ><x-kl-b></x-kl-b
+        ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>γι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ος</x-ly
+      ></x-n
+      ><x-n
+        ><x-e></x-e
+        ><x-kl></x-kl
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>Θε</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ε</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ος</x-ly
+      ></x-n
+      ><x-n
+        ><x-stavros></x-stavros
+        ></x-n
+      ><x-n
+        ><x-p></x-p
+        ><x-kl-b></x-kl-b
+        ><x-ly>Α</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>γι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>ος</x-ly
+      ></x-n
+      ><x-n
+        ><x-e></x-e
+        ><x-kl></x-kl
+        ><x-ly>Ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>σχυ</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>υ</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-kl></x-kl
+        ><x-ly>ρος</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-di></x-m-di
+        ><x-m-sc-di></x-m-sc-di
+        ></x-m
+      ><x-n
+        ><x-p0></x-p0
+        ><x-ly>Α</x-ly
+      ></x-n
+      ><x-n
+        ><x-e></x-e
+        ><x-ly>γι</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>ος</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>Α</x-ly
+      ></x-n
+      ><x-n
+        ><x-p></x-p
+        ><x-kl-b></x-kl-b
+        ><x-ly>θα</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>να</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-kl></x-kl
+        ><x-ly>τος</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-vou></x-m-vou
+        ><x-m-sc-di></x-m-sc-di
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ο</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-dipli></x-dipli
+        ><x-ly>σμου</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ni></x-m-ni
+        ><x-m-delta></x-m-delta
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz---rich-text-box" style=""><p style="text-align:center;"><strong>Δόξα. Καί νυν.</strong></p></div
+    ><div class="byz--neume-paragraph"
+      ><x-dc>Δ</x-dc
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ε</x-ly
+      ></x-n
+      ><x-n
+        ><x-ko></x-ko
+        ><x-ly>ε</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>ευ</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-a></x-a
+        ><x-ly>τε</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-apli></x-apli
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ε</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>χρι</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>στο</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-ly>φο</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-ly>ροι</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-ly>λα</x-ly
+      ></x-n
+      ><x-n
+        ><x-o-i-k></x-o-i-k
+        ><x-g class="byz--g"></x-g
+        ><x-ly>οι</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>οι</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-aa></x-aa
+        ><x-ly>κα</x-ly
+      ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>τι</x-ly
+      ></x-n
+      ><x-n
+        ><x-ko></x-ko
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-ok></x-ok
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ι</x-ly
+      ></x-n
+      ><x-n
+        ><x-var></x-var
+        ><x-a></x-a
+        ><x-kl></x-kl
+        ><x-ly>δω</x-ly
+      ></x-n
+      ><x-n
+        ><x-y></x-y
+        ><x-g class="byz--g"></x-g
+        ></x-n
+      ><x-n
+        ><x-o></x-o
+        ><x-anti></x-anti
+        ><x-g class="byz--g"></x-g
+        ><x-ly>ω</x-ly
+      ></x-n
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>ω</x-ly
+      ></x-n
+      ><x-n
+        ><x-i></x-i
+        ><x-kl></x-kl
+        ><x-ly>μεν</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ke></x-m-ke
+        ><x-m-alpha-aa></x-m-alpha-aa
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      >
+  </body>
+</html>
