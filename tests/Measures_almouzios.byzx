@@ -1,0 +1,1402 @@
+{
+  "version": "1.1",
+  "appVersion": "0.4.106",
+  "pageSetup": {
+    "pageSize": "Letter",
+    "pageSizeUnit": "in",
+    "pageWidth": 816,
+    "pageHeight": 1056,
+    "topMargin": 96,
+    "bottomMargin": 96,
+    "leftMargin": 96,
+    "rightMargin": 96,
+    "headerMargin": 48,
+    "footerMargin": 48,
+    "firstPageNumber": 1,
+    "lineHeight": 72.96000000000001,
+    "lyricsDefaultFontFamily": "Source Serif",
+    "lyricsDefaultFontSize": 16,
+    "lyricsDefaultFontWeight": "400",
+    "lyricsDefaultFontStyle": "normal",
+    "lyricsDefaultColor": "#000000",
+    "lyricsDefaultStrokeWidth": 0,
+    "lyricsVerticalOffset": 0,
+    "lyricsMinimumSpacing": 4.800000000000001,
+    "lyricsMelismaCutoffWidth": 6.666666666666667,
+    "neumeDefaultFontFamily": "Almouzios",
+    "neumeDefaultFontSize": 26.666666666666668,
+    "neumeDefaultColor": "#000000",
+    "neumeDefaultSpacing": 2.88,
+    "neumeDefaultStrokeWidth": 0,
+    "modeKeyDefaultColor": "#ED0000",
+    "modeKeyDefaultStrokeWidth": 0,
+    "modeKeyDefaultFontSize": 26.666666666666668,
+    "modeKeyDefaultHeightAdjustment": 0,
+    "accidentalDefaultColor": "#ED0000",
+    "accidentalDefaultStrokeWidth": 0,
+    "fthoraDefaultColor": "#ED0000",
+    "fthoraDefaultStrokeWidth": 0,
+    "heteronDefaultColor": "#ED0000",
+    "heteronDefaultStrokeWidth": 0,
+    "gorgonDefaultColor": "#ED0000",
+    "gorgonDefaultStrokeWidth": 0,
+    "measureBarDefaultColor": "#ED0000",
+    "measureBarDefaultStrokeWidth": 0,
+    "measureNumberDefaultColor": "#000000",
+    "measureNumberDefaultStrokeWidth": 0,
+    "noteIndicatorDefaultColor": "#ED0000",
+    "noteIndicatorDefaultStrokeWidth": 0,
+    "isonDefaultColor": "#ED0000",
+    "isonDefaultStrokeWidth": 0,
+    "breathDefaultColor": "#000000",
+    "breathDefaultStrokeWidth": 0,
+    "crossDefaultColor": "#000000",
+    "crossDefaultStrokeWidth": 0,
+    "koronisDefaultColor": "#ED0000",
+    "koronisDefaultStrokeWidth": 0,
+    "martyriaDefaultColor": "#ED0000",
+    "martyriaDefaultStrokeWidth": 0,
+    "tempoDefaultColor": "#ED0000",
+    "tempoDefaultStrokeWidth": 0,
+    "dropCapDefaultFontFamily": "Source Serif",
+    "dropCapDefaultFontSize": 80,
+    "dropCapDefaultFontWeight": "400",
+    "dropCapDefaultFontStyle": "normal",
+    "dropCapDefaultColor": "#000000",
+    "dropCapDefaultStrokeWidth": 0,
+    "dropCapDefaultLineSpan": 1,
+    "textBoxDefaultFontFamily": "Source Serif",
+    "textBoxDefaultFontSize": 26.666666666666668,
+    "textBoxDefaultFontWeight": "400",
+    "textBoxDefaultFontStyle": "normal",
+    "textBoxDefaultColor": "#000000",
+    "textBoxDefaultStrokeWidth": 0,
+    "hyphenSpacing": 72,
+    "martyriaVerticalOffset": 0,
+    "chrysanthineAccidentals": true
+  },
+  "headers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    }
+  },
+  "footers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    }
+  },
+  "staff": {
+    "elements": [
+      {
+        "id": 1,
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "measureNumber": "Two",
+        "lyrics": "1"
+      },
+      {
+        "id": 2,
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "measureNumber": "Two",
+        "lyrics": "2"
+      },
+      {
+        "id": 3,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "measureNumber": "Two",
+        "lyrics": "3"
+      },
+      {
+        "id": 4,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "measureNumber": "Two",
+        "lyrics": "4"
+      },
+      {
+        "id": 5,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "measureNumber": "Two",
+        "lyrics": "5"
+      },
+      {
+        "id": 6,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "measureNumber": "Two",
+        "lyrics": "6"
+      },
+      {
+        "id": 7,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "measureNumber": "Two",
+        "lyrics": "7"
+      },
+      {
+        "id": 8,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "measureNumber": "Two",
+        "lyrics": "8"
+      },
+      {
+        "id": 9,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "measureNumber": "Two",
+        "lyrics": "9"
+      },
+      {
+        "id": 10,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "10"
+      },
+      {
+        "id": 11,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "measureNumber": "Two",
+        "lyrics": "11"
+      },
+      {
+        "id": 12,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "measureNumber": "Two",
+        "lyrics": "12"
+      },
+      {
+        "id": 13,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "13"
+      },
+      {
+        "id": 14,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "14"
+      },
+      {
+        "id": 15,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "15"
+      },
+      {
+        "id": 16,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiWithIson",
+        "measureNumber": "Two",
+        "lyrics": "16"
+      },
+      {
+        "id": 17,
+        "elementType": "Note",
+        "quantitativeNeume": "Petasti",
+        "measureNumber": "Two",
+        "lyrics": "17"
+      },
+      {
+        "id": 18,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusOligon",
+        "measureNumber": "Two",
+        "lyrics": "18"
+      },
+      {
+        "id": 19,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "measureNumber": "Two",
+        "lyrics": "19"
+      },
+      {
+        "id": 20,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "measureNumber": "Two",
+        "lyrics": "20"
+      },
+      {
+        "id": 21,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "measureNumber": "Two",
+        "lyrics": "21"
+      },
+      {
+        "id": 22,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "measureNumber": "Two",
+        "lyrics": "22"
+      },
+      {
+        "id": 23,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "measureNumber": "Two",
+        "lyrics": "23"
+      },
+      {
+        "id": 24,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "measureNumber": "Two",
+        "lyrics": "24"
+      },
+      {
+        "id": 25,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "25"
+      },
+      {
+        "id": 26,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "measureNumber": "Two",
+        "lyrics": "26"
+      },
+      {
+        "id": 27,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "measureNumber": "Two",
+        "lyrics": "27"
+      },
+      {
+        "id": 28,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "28"
+      },
+      {
+        "id": 29,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "29"
+      },
+      {
+        "id": 30,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "measureNumber": "Two",
+        "lyrics": "30"
+      },
+      {
+        "id": 31,
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "measureNumber": "Two",
+        "lyrics": "31"
+      },
+      {
+        "id": 32,
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "measureNumber": "Two",
+        "lyrics": "32"
+      },
+      {
+        "id": 33,
+        "elementType": "Note",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "33"
+      },
+      {
+        "id": 34,
+        "elementType": "Note",
+        "quantitativeNeume": "Hamili",
+        "measureNumber": "Two",
+        "lyrics": "34"
+      },
+      {
+        "id": 35,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "35"
+      },
+      {
+        "id": 36,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphron",
+        "measureNumber": "Two",
+        "lyrics": "36"
+      },
+      {
+        "id": 37,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "37"
+      },
+      {
+        "id": 38,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamili",
+        "measureNumber": "Two",
+        "lyrics": "38"
+      },
+      {
+        "id": 39,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "measureNumber": "Two",
+        "lyrics": "39"
+      },
+      {
+        "id": 40,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafron",
+        "measureNumber": "Two",
+        "lyrics": "40"
+      },
+      {
+        "id": 41,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "measureNumber": "Two",
+        "lyrics": "41"
+      },
+      {
+        "id": 42,
+        "elementType": "Note",
+        "quantitativeNeume": "TripleHamili",
+        "measureNumber": "Two",
+        "lyrics": "42"
+      },
+      {
+        "id": 43,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "43"
+      },
+      {
+        "id": 44,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphron",
+        "measureNumber": "Two",
+        "lyrics": "44"
+      },
+      {
+        "id": 45,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "45"
+      },
+      {
+        "id": 46,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamili",
+        "measureNumber": "Two",
+        "lyrics": "46"
+      },
+      {
+        "id": 47,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "measureNumber": "Two",
+        "lyrics": "47"
+      },
+      {
+        "id": 48,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafron",
+        "measureNumber": "Two",
+        "lyrics": "48"
+      },
+      {
+        "id": 49,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "measureNumber": "Two",
+        "lyrics": "49"
+      },
+      {
+        "id": 50,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamili",
+        "measureNumber": "Two",
+        "lyrics": "50"
+      },
+      {
+        "id": 51,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "measureNumber": "Two",
+        "lyrics": "51"
+      },
+      {
+        "id": 52,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "52"
+      },
+      {
+        "id": 53,
+        "elementType": "Note",
+        "quantitativeNeume": "KentemataPlusOligon",
+        "measureNumber": "Two",
+        "lyrics": "53"
+      },
+      {
+        "id": 54,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "54"
+      },
+      {
+        "id": 55,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "55"
+      },
+      {
+        "id": 56,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "56"
+      },
+      {
+        "id": 57,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "57"
+      },
+      {
+        "id": 58,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "58"
+      },
+      {
+        "id": 59,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "59"
+      },
+      {
+        "id": 60,
+        "elementType": "Note",
+        "quantitativeNeume": "RunningElaphron",
+        "measureNumber": "Two",
+        "lyrics": "60"
+      },
+      {
+        "id": 61,
+        "elementType": "Note",
+        "quantitativeNeume": "Hyporoe",
+        "measureNumber": "Two",
+        "lyrics": "61"
+      },
+      {
+        "id": 62,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "measureNumber": "Two",
+        "lyrics": "62"
+      },
+      {
+        "id": 63,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHyporoe",
+        "measureNumber": "Two",
+        "lyrics": "63"
+      },
+      {
+        "id": 64,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIson",
+        "measureNumber": "Two",
+        "lyrics": "64"
+      },
+      {
+        "id": 65,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "65"
+      },
+      {
+        "id": 66,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphron",
+        "measureNumber": "Two",
+        "lyrics": "66"
+      },
+      {
+        "id": 67,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoe",
+        "measureNumber": "Two",
+        "lyrics": "67"
+      },
+      {
+        "id": 68,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "68"
+      },
+      {
+        "id": 69,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamili",
+        "measureNumber": "Two",
+        "lyrics": "69"
+      },
+      {
+        "id": 70,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentima",
+        "measureNumber": "Two",
+        "lyrics": "70"
+      },
+      {
+        "id": 71,
+        "elementType": "Note",
+        "quantitativeNeume": "Kentemata",
+        "measureNumber": "Two",
+        "lyrics": "71"
+      },
+      {
+        "id": 72,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "72"
+      },
+      {
+        "id": 73,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "measureNumber": "Two",
+        "lyrics": "73"
+      },
+      {
+        "id": 74,
+        "elementType": "Note",
+        "quantitativeNeume": "IsonPlusApostrophos",
+        "measureNumber": "Two",
+        "lyrics": "74"
+      },
+      {
+        "id": 75,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
+        "measureNumber": "Two",
+        "lyrics": "75"
+      },
+      {
+        "id": 76,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
+        "measureNumber": "Two",
+        "lyrics": "76"
+      },
+      {
+        "id": 77,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
+        "measureNumber": "Two",
+        "lyrics": "77"
+      },
+      {
+        "id": 78,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted2",
+        "measureNumber": "Two",
+        "lyrics": "78"
+      },
+      {
+        "id": 79,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted3",
+        "measureNumber": "Two",
+        "lyrics": "79"
+      },
+      {
+        "id": 80,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted4",
+        "measureNumber": "Two",
+        "lyrics": "80"
+      },
+      {
+        "id": 81,
+        "elementType": "Note",
+        "quantitativeNeume": "Breath",
+        "measureNumber": "Two",
+        "lyrics": "81"
+      },
+      {
+        "id": 82,
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "measureNumber": "Eight",
+        "lyrics": "82"
+      },
+      {
+        "id": 83,
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "measureNumber": "Eight",
+        "lyrics": "83"
+      },
+      {
+        "id": 84,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "measureNumber": "Eight",
+        "lyrics": "84"
+      },
+      {
+        "id": 85,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "measureNumber": "Eight",
+        "lyrics": "85"
+      },
+      {
+        "id": 86,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "measureNumber": "Eight",
+        "lyrics": "86"
+      },
+      {
+        "id": 87,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "measureNumber": "Eight",
+        "lyrics": "87"
+      },
+      {
+        "id": 88,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "measureNumber": "Eight",
+        "lyrics": "88"
+      },
+      {
+        "id": 89,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "measureNumber": "Eight",
+        "lyrics": "89"
+      },
+      {
+        "id": 90,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "measureNumber": "Eight",
+        "lyrics": "90"
+      },
+      {
+        "id": 91,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "91"
+      },
+      {
+        "id": 92,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "measureNumber": "Eight",
+        "lyrics": "92"
+      },
+      {
+        "id": 93,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "measureNumber": "Eight",
+        "lyrics": "93"
+      },
+      {
+        "id": 94,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "94"
+      },
+      {
+        "id": 95,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "95"
+      },
+      {
+        "id": 96,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "96"
+      },
+      {
+        "id": 97,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiWithIson",
+        "measureNumber": "Eight",
+        "lyrics": "97"
+      },
+      {
+        "id": 98,
+        "elementType": "Note",
+        "quantitativeNeume": "Petasti",
+        "measureNumber": "Eight",
+        "lyrics": "98"
+      },
+      {
+        "id": 99,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusOligon",
+        "measureNumber": "Eight",
+        "lyrics": "99"
+      },
+      {
+        "id": 100,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "measureNumber": "Eight",
+        "lyrics": "100"
+      },
+      {
+        "id": 101,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "measureNumber": "Eight",
+        "lyrics": "101"
+      },
+      {
+        "id": 102,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "measureNumber": "Eight",
+        "lyrics": "102"
+      },
+      {
+        "id": 103,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "measureNumber": "Eight",
+        "lyrics": "103"
+      },
+      {
+        "id": 104,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "measureNumber": "Eight",
+        "lyrics": "104"
+      },
+      {
+        "id": 105,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "measureNumber": "Eight",
+        "lyrics": "105"
+      },
+      {
+        "id": 106,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "106"
+      },
+      {
+        "id": 107,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "measureNumber": "Eight",
+        "lyrics": "107"
+      },
+      {
+        "id": 108,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "measureNumber": "Eight",
+        "lyrics": "108"
+      },
+      {
+        "id": 109,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "109"
+      },
+      {
+        "id": 110,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "110"
+      },
+      {
+        "id": 111,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "measureNumber": "Eight",
+        "lyrics": "111"
+      },
+      {
+        "id": 112,
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "112"
+      },
+      {
+        "id": 113,
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "measureNumber": "Eight",
+        "lyrics": "113"
+      },
+      {
+        "id": 114,
+        "elementType": "Note",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "114"
+      },
+      {
+        "id": 115,
+        "elementType": "Note",
+        "quantitativeNeume": "Hamili",
+        "measureNumber": "Eight",
+        "lyrics": "115"
+      },
+      {
+        "id": 116,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "116"
+      },
+      {
+        "id": 117,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphron",
+        "measureNumber": "Eight",
+        "lyrics": "117"
+      },
+      {
+        "id": 118,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "118"
+      },
+      {
+        "id": 119,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamili",
+        "measureNumber": "Eight",
+        "lyrics": "119"
+      },
+      {
+        "id": 120,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "measureNumber": "Eight",
+        "lyrics": "120"
+      },
+      {
+        "id": 121,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafron",
+        "measureNumber": "Eight",
+        "lyrics": "121"
+      },
+      {
+        "id": 122,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "measureNumber": "Eight",
+        "lyrics": "122"
+      },
+      {
+        "id": 123,
+        "elementType": "Note",
+        "quantitativeNeume": "TripleHamili",
+        "measureNumber": "Eight",
+        "lyrics": "123"
+      },
+      {
+        "id": 124,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "124"
+      },
+      {
+        "id": 125,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphron",
+        "measureNumber": "Eight",
+        "lyrics": "125"
+      },
+      {
+        "id": 126,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "126"
+      },
+      {
+        "id": 127,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamili",
+        "measureNumber": "Eight",
+        "lyrics": "127"
+      },
+      {
+        "id": 128,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "measureNumber": "Eight",
+        "lyrics": "128"
+      },
+      {
+        "id": 129,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafron",
+        "measureNumber": "Eight",
+        "lyrics": "129"
+      },
+      {
+        "id": 130,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "measureNumber": "Eight",
+        "lyrics": "130"
+      },
+      {
+        "id": 131,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamili",
+        "measureNumber": "Eight",
+        "lyrics": "131"
+      },
+      {
+        "id": 132,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "measureNumber": "Eight",
+        "lyrics": "132"
+      },
+      {
+        "id": 133,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "133"
+      },
+      {
+        "id": 134,
+        "elementType": "Note",
+        "quantitativeNeume": "KentemataPlusOligon",
+        "measureNumber": "Eight",
+        "lyrics": "134"
+      },
+      {
+        "id": 135,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "135"
+      },
+      {
+        "id": 136,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "136"
+      },
+      {
+        "id": 137,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "137"
+      },
+      {
+        "id": 138,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "138"
+      },
+      {
+        "id": 139,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "139"
+      },
+      {
+        "id": 140,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "140"
+      },
+      {
+        "id": 141,
+        "elementType": "Note",
+        "quantitativeNeume": "RunningElaphron",
+        "measureNumber": "Eight",
+        "lyrics": "141"
+      },
+      {
+        "id": 142,
+        "elementType": "Note",
+        "quantitativeNeume": "Hyporoe",
+        "measureNumber": "Eight",
+        "lyrics": "142"
+      },
+      {
+        "id": 143,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "measureNumber": "Eight",
+        "lyrics": "143"
+      },
+      {
+        "id": 144,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHyporoe",
+        "measureNumber": "Eight",
+        "lyrics": "144"
+      },
+      {
+        "id": 145,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIson",
+        "measureNumber": "Eight",
+        "lyrics": "145"
+      },
+      {
+        "id": 146,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "146"
+      },
+      {
+        "id": 147,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphron",
+        "measureNumber": "Eight",
+        "lyrics": "147"
+      },
+      {
+        "id": 148,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoe",
+        "measureNumber": "Eight",
+        "lyrics": "148"
+      },
+      {
+        "id": 149,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "149"
+      },
+      {
+        "id": 150,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamili",
+        "measureNumber": "Eight",
+        "lyrics": "150"
+      },
+      {
+        "id": 151,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentima",
+        "measureNumber": "Eight",
+        "lyrics": "151"
+      },
+      {
+        "id": 152,
+        "elementType": "Note",
+        "quantitativeNeume": "Kentemata",
+        "measureNumber": "Eight",
+        "lyrics": "152"
+      },
+      {
+        "id": 153,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "153"
+      },
+      {
+        "id": 154,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "measureNumber": "Eight",
+        "lyrics": "154"
+      },
+      {
+        "id": 155,
+        "elementType": "Note",
+        "quantitativeNeume": "IsonPlusApostrophos",
+        "measureNumber": "Eight",
+        "lyrics": "155"
+      },
+      {
+        "id": 156,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
+        "measureNumber": "Eight",
+        "lyrics": "156"
+      },
+      {
+        "id": 157,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
+        "measureNumber": "Eight",
+        "lyrics": "157"
+      },
+      {
+        "id": 158,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
+        "measureNumber": "Eight",
+        "lyrics": "158"
+      },
+      {
+        "id": 159,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted2",
+        "measureNumber": "Eight",
+        "lyrics": "159"
+      },
+      {
+        "id": 160,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted3",
+        "measureNumber": "Eight",
+        "lyrics": "160"
+      },
+      {
+        "id": 161,
+        "elementType": "Note",
+        "quantitativeNeume": "VareiaDotted4",
+        "measureNumber": "Eight",
+        "lyrics": "161"
+      },
+      {
+        "id": 162,
+        "elementType": "Note",
+        "quantitativeNeume": "Breath",
+        "measureNumber": "Eight",
+        "lyrics": "162"
+      },
+      {
+        "elementType": "Empty"
+      }
+    ],
+    "lyrics": {
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162"
+    }
+  }
+}
