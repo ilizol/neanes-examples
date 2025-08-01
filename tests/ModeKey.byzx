@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.4.106",
+  "appVersion": "0.4.107",
   "pageSetup": {
     "pageSize": "Letter",
     "pageSizeUnit": "in",
@@ -28,6 +28,8 @@
     "neumeDefaultColor": "#000000",
     "neumeDefaultSpacing": 2.88,
     "neumeDefaultStrokeWidth": 0,
+    "alternateLineDefaultFontSize": 16,
+    "alternateLineDefaultColor": "#ED0000",
     "modeKeyDefaultColor": "#ED0000",
     "modeKeyDefaultStrokeWidth": 0,
     "modeKeyDefaultFontSize": 26.666666666666668,
@@ -73,7 +75,8 @@
     "textBoxDefaultStrokeWidth": 0,
     "hyphenSpacing": 72,
     "martyriaVerticalOffset": 4,
-    "chrysanthineAccidentals": true
+    "chrysanthineAccidentals": true,
+    "alignIsonIndicators": true
   },
   "headers": {
     "default": {
@@ -854,6 +857,33 @@
       {
         "id": 25,
         "elementType": "ModeKey",
+        "templateId": 506,
+        "alignment": "center",
+        "mode": 5,
+        "scale": "Diatonic",
+        "scaleNote": "Ke",
+        "fthora": "DiatonicPa_Top",
+        "martyria": "ModeSign.Alpha",
+        "note": "ModeSign.Pa",
+        "fthoraAboveQuantitativeNeumeRight": "DiatonicPa_Top",
+        "quantitativeNeumeRight": "OligonPlusHypsiliRight",
+        "color": "#000000",
+        "fontSize": 26.666666666666668,
+        "strokeWidth": 0,
+        "height": 49,
+        "heightAdjustment": 0,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "bpm": 120,
+        "useDefaultStyle": true,
+        "ambitusLowNote": "Pa",
+        "ambitusLowRootSign": "Alpha",
+        "ambitusHighNote": "Pa",
+        "ambitusHighRootSign": "Alpha"
+      },
+      {
+        "id": 26,
+        "elementType": "ModeKey",
         "templateId": 502,
         "alignment": "center",
         "mode": 5,
@@ -878,7 +908,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 26,
+        "id": 27,
         "elementType": "ModeKey",
         "templateId": 503,
         "alignment": "center",
@@ -905,7 +935,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 27,
+        "id": 28,
         "elementType": "ModeKey",
         "templateId": 504,
         "alignment": "center",
@@ -932,7 +962,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 28,
+        "id": 29,
         "elementType": "ModeKey",
         "templateId": 505,
         "alignment": "center",
@@ -957,7 +987,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 29,
+        "id": 30,
         "elementType": "ModeKey",
         "templateId": 600,
         "alignment": "center",
@@ -982,7 +1012,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 30,
+        "id": 31,
         "elementType": "ModeKey",
         "templateId": 601,
         "alignment": "center",
@@ -1007,7 +1037,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 31,
+        "id": 32,
         "elementType": "ModeKey",
         "templateId": 602,
         "alignment": "center",
@@ -1033,7 +1063,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 32,
+        "id": 33,
         "elementType": "ModeKey",
         "templateId": 603,
         "alignment": "center",
@@ -1060,7 +1090,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 33,
+        "id": 34,
         "elementType": "ModeKey",
         "templateId": 604,
         "alignment": "center",
@@ -1087,7 +1117,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 34,
+        "id": 35,
         "elementType": "ModeKey",
         "templateId": 700,
         "alignment": "center",
@@ -1111,7 +1141,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 35,
+        "id": 36,
         "elementType": "ModeKey",
         "templateId": 701,
         "alignment": "center",
@@ -1135,7 +1165,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 36,
+        "id": 37,
         "elementType": "ModeKey",
         "templateId": 702,
         "alignment": "center",
@@ -1161,7 +1191,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 37,
+        "id": 38,
         "elementType": "ModeKey",
         "templateId": 703,
         "alignment": "center",
@@ -1188,7 +1218,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 38,
+        "id": 39,
         "elementType": "ModeKey",
         "templateId": 800,
         "alignment": "center",
@@ -1212,7 +1242,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 39,
+        "id": 40,
         "elementType": "ModeKey",
         "templateId": 801,
         "alignment": "center",
@@ -1238,7 +1268,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 40,
+        "id": 41,
         "elementType": "ModeKey",
         "templateId": 802,
         "alignment": "center",
@@ -1263,7 +1293,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 41,
+        "id": 42,
         "elementType": "ModeKey",
         "templateId": 803,
         "alignment": "center",
@@ -1288,7 +1318,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 42,
+        "id": 43,
         "elementType": "ModeKey",
         "templateId": 804,
         "alignment": "center",

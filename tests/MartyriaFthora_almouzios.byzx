@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.4.106",
+  "appVersion": "0.4.107",
   "pageSetup": {
     "pageSize": "Letter",
     "pageSizeUnit": "in",
@@ -28,6 +28,8 @@
     "neumeDefaultColor": "#000000",
     "neumeDefaultSpacing": 2.88,
     "neumeDefaultStrokeWidth": 0,
+    "alternateLineDefaultFontSize": 16,
+    "alternateLineDefaultColor": "#ED0000",
     "modeKeyDefaultColor": "#ED0000",
     "modeKeyDefaultStrokeWidth": 0,
     "modeKeyDefaultFontSize": 26.666666666666668,
@@ -73,7 +75,8 @@
     "textBoxDefaultStrokeWidth": 0,
     "hyphenSpacing": 72,
     "martyriaVerticalOffset": 0,
-    "chrysanthineAccidentals": true
+    "chrysanthineAccidentals": true,
+    "alignIsonIndicators": true
   },
   "headers": {
     "default": {
