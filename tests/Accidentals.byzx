@@ -1880,1710 +1880,1626 @@
       {
         "id": 232,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted2",
-        "accidental": "Flat_2_Right",
+        "quantitativeNeume": "Ison",
+        "accidental": "Sharp_2_Left",
         "lyrics": "232"
       },
       {
         "id": 233,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted2",
-        "accidental": "Flat_4_Right",
+        "quantitativeNeume": "Ison",
+        "accidental": "Sharp_4_Left",
         "lyrics": "233"
       },
       {
         "id": 234,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted2",
-        "accidental": "Flat_6_Right",
+        "quantitativeNeume": "Ison",
+        "accidental": "Sharp_6_Left",
         "lyrics": "234"
       },
       {
         "id": 235,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted3",
-        "accidental": "Flat_2_Right",
+        "quantitativeNeume": "Oligon",
+        "accidental": "Sharp_2_Left",
         "lyrics": "235"
       },
       {
         "id": 236,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted3",
-        "accidental": "Flat_4_Right",
+        "quantitativeNeume": "Oligon",
+        "accidental": "Sharp_4_Left",
         "lyrics": "236"
       },
       {
         "id": 237,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted3",
-        "accidental": "Flat_6_Right",
+        "quantitativeNeume": "Oligon",
+        "accidental": "Sharp_6_Left",
         "lyrics": "237"
       },
       {
         "id": 238,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted4",
-        "accidental": "Flat_2_Right",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "accidental": "Sharp_2_Left",
         "lyrics": "238"
       },
       {
         "id": 239,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted4",
-        "accidental": "Flat_4_Right",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "accidental": "Sharp_4_Left",
         "lyrics": "239"
       },
       {
         "id": 240,
         "elementType": "Note",
-        "quantitativeNeume": "VareiaDotted4",
-        "accidental": "Flat_6_Right",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "accidental": "Sharp_6_Left",
         "lyrics": "240"
       },
       {
         "id": 241,
         "elementType": "Note",
-        "quantitativeNeume": "Breath",
-        "accidental": "Flat_2_Right",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "accidental": "Sharp_2_Left",
         "lyrics": "241"
       },
       {
         "id": 242,
         "elementType": "Note",
-        "quantitativeNeume": "Breath",
-        "accidental": "Flat_4_Right",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "accidental": "Sharp_4_Left",
         "lyrics": "242"
       },
       {
         "id": 243,
         "elementType": "Note",
-        "quantitativeNeume": "Breath",
-        "accidental": "Flat_6_Right",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "accidental": "Sharp_6_Left",
         "lyrics": "243"
       },
       {
         "id": 244,
         "elementType": "Note",
-        "quantitativeNeume": "Ison",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
         "accidental": "Sharp_2_Left",
         "lyrics": "244"
       },
       {
         "id": 245,
         "elementType": "Note",
-        "quantitativeNeume": "Ison",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
         "accidental": "Sharp_4_Left",
         "lyrics": "245"
       },
       {
         "id": 246,
         "elementType": "Note",
-        "quantitativeNeume": "Ison",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
         "accidental": "Sharp_6_Left",
         "lyrics": "246"
       },
       {
         "id": 247,
         "elementType": "Note",
-        "quantitativeNeume": "Oligon",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
         "accidental": "Sharp_2_Left",
         "lyrics": "247"
       },
       {
         "id": 248,
         "elementType": "Note",
-        "quantitativeNeume": "Oligon",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
         "accidental": "Sharp_4_Left",
         "lyrics": "248"
       },
       {
         "id": 249,
         "elementType": "Note",
-        "quantitativeNeume": "Oligon",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
         "accidental": "Sharp_6_Left",
         "lyrics": "249"
       },
       {
         "id": 250,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_2_Left",
         "lyrics": "250"
       },
       {
         "id": 251,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_4_Left",
         "lyrics": "251"
       },
       {
         "id": 252,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_6_Left",
         "lyrics": "252"
       },
       {
         "id": 253,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_2_Left",
         "lyrics": "253"
       },
       {
         "id": 254,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_4_Left",
         "lyrics": "254"
       },
       {
         "id": 255,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_6_Left",
         "lyrics": "255"
       },
       {
         "id": 256,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "256"
       },
       {
         "id": 257,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "257"
       },
       {
         "id": 258,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "258"
       },
       {
         "id": 259,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "259"
       },
       {
         "id": 260,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "260"
       },
       {
         "id": 261,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "261"
       },
       {
         "id": 262,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
         "accidental": "Sharp_2_Left",
         "lyrics": "262"
       },
       {
         "id": 263,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
         "accidental": "Sharp_4_Left",
         "lyrics": "263"
       },
       {
         "id": 264,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
         "accidental": "Sharp_6_Left",
         "lyrics": "264"
       },
       {
         "id": 265,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_2_Left",
         "lyrics": "265"
       },
       {
         "id": 266,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_4_Left",
         "lyrics": "266"
       },
       {
         "id": 267,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_6_Left",
         "lyrics": "267"
       },
       {
         "id": 268,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "quantitativeNeume": "OligonTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "268"
       },
       {
         "id": 269,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "quantitativeNeume": "OligonTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "269"
       },
       {
         "id": 270,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "quantitativeNeume": "OligonTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "270"
       },
       {
         "id": 271,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "271"
       },
       {
         "id": 272,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "272"
       },
       {
         "id": 273,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "273"
       },
       {
         "id": 274,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "274"
       },
       {
         "id": 275,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "275"
       },
       {
         "id": 276,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "276"
       },
       {
         "id": 277,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "PetastiWithIson",
         "accidental": "Sharp_2_Left",
         "lyrics": "277"
       },
       {
         "id": 278,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "PetastiWithIson",
         "accidental": "Sharp_4_Left",
         "lyrics": "278"
       },
       {
         "id": 279,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "PetastiWithIson",
         "accidental": "Sharp_6_Left",
         "lyrics": "279"
       },
       {
         "id": 280,
         "elementType": "Note",
-        "quantitativeNeume": "OligonTripleYpsili",
+        "quantitativeNeume": "Petasti",
         "accidental": "Sharp_2_Left",
         "lyrics": "280"
       },
       {
         "id": 281,
         "elementType": "Note",
-        "quantitativeNeume": "OligonTripleYpsili",
+        "quantitativeNeume": "Petasti",
         "accidental": "Sharp_4_Left",
         "lyrics": "281"
       },
       {
         "id": 282,
         "elementType": "Note",
-        "quantitativeNeume": "OligonTripleYpsili",
+        "quantitativeNeume": "Petasti",
         "accidental": "Sharp_6_Left",
         "lyrics": "282"
       },
       {
         "id": 283,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "quantitativeNeume": "PetastiPlusOligon",
         "accidental": "Sharp_2_Left",
         "lyrics": "283"
       },
       {
         "id": 284,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "quantitativeNeume": "PetastiPlusOligon",
         "accidental": "Sharp_4_Left",
         "lyrics": "284"
       },
       {
         "id": 285,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "quantitativeNeume": "PetastiPlusOligon",
         "accidental": "Sharp_6_Left",
         "lyrics": "285"
       },
       {
         "id": 286,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
         "accidental": "Sharp_2_Left",
         "lyrics": "286"
       },
       {
         "id": 287,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
         "accidental": "Sharp_4_Left",
         "lyrics": "287"
       },
       {
         "id": 288,
         "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
         "accidental": "Sharp_6_Left",
         "lyrics": "288"
       },
       {
         "id": 289,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiWithIson",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
         "accidental": "Sharp_2_Left",
         "lyrics": "289"
       },
       {
         "id": 290,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiWithIson",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
         "accidental": "Sharp_4_Left",
         "lyrics": "290"
       },
       {
         "id": 291,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiWithIson",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
         "accidental": "Sharp_6_Left",
         "lyrics": "291"
       },
       {
         "id": 292,
         "elementType": "Note",
-        "quantitativeNeume": "Petasti",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
         "accidental": "Sharp_2_Left",
         "lyrics": "292"
       },
       {
         "id": 293,
         "elementType": "Note",
-        "quantitativeNeume": "Petasti",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
         "accidental": "Sharp_4_Left",
         "lyrics": "293"
       },
       {
         "id": 294,
         "elementType": "Note",
-        "quantitativeNeume": "Petasti",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
         "accidental": "Sharp_6_Left",
         "lyrics": "294"
       },
       {
         "id": 295,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusOligon",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_2_Left",
         "lyrics": "295"
       },
       {
         "id": 296,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusOligon",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_4_Left",
         "lyrics": "296"
       },
       {
         "id": 297,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusOligon",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
         "accidental": "Sharp_6_Left",
         "lyrics": "297"
       },
       {
         "id": 298,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_2_Left",
         "lyrics": "298"
       },
       {
         "id": 299,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_4_Left",
         "lyrics": "299"
       },
       {
         "id": 300,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
         "accidental": "Sharp_6_Left",
         "lyrics": "300"
       },
       {
         "id": 301,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "301"
       },
       {
         "id": 302,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "302"
       },
       {
         "id": 303,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "303"
       },
       {
         "id": 304,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "304"
       },
       {
         "id": 305,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "305"
       },
       {
         "id": 306,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "306"
       },
       {
         "id": 307,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
         "accidental": "Sharp_2_Left",
         "lyrics": "307"
       },
       {
         "id": 308,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
         "accidental": "Sharp_4_Left",
         "lyrics": "308"
       },
       {
         "id": 309,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
         "accidental": "Sharp_6_Left",
         "lyrics": "309"
       },
       {
         "id": 310,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_2_Left",
         "lyrics": "310"
       },
       {
         "id": 311,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_4_Left",
         "lyrics": "311"
       },
       {
         "id": 312,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
         "accidental": "Sharp_6_Left",
         "lyrics": "312"
       },
       {
         "id": 313,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "quantitativeNeume": "PetastiTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "313"
       },
       {
         "id": 314,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "quantitativeNeume": "PetastiTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "314"
       },
       {
         "id": 315,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "quantitativeNeume": "PetastiTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "315"
       },
       {
         "id": 316,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "316"
       },
       {
         "id": 317,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "317"
       },
       {
         "id": 318,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "318"
       },
       {
         "id": 319,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
         "accidental": "Sharp_2_Left",
         "lyrics": "319"
       },
       {
         "id": 320,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
         "accidental": "Sharp_4_Left",
         "lyrics": "320"
       },
       {
         "id": 321,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
         "accidental": "Sharp_6_Left",
         "lyrics": "321"
       },
       {
         "id": 322,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "Apostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "322"
       },
       {
         "id": 323,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "Apostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "323"
       },
       {
         "id": 324,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "quantitativeNeume": "Apostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "324"
       },
       {
         "id": 325,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiTripleYpsili",
+        "quantitativeNeume": "Elaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "325"
       },
       {
         "id": 326,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiTripleYpsili",
+        "quantitativeNeume": "Elaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "326"
       },
       {
         "id": 327,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiTripleYpsili",
+        "quantitativeNeume": "Elaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "327"
       },
       {
         "id": 328,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "328"
       },
       {
         "id": 329,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "329"
       },
       {
         "id": 330,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "330"
       },
       {
         "id": 331,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "quantitativeNeume": "Hamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "331"
       },
       {
         "id": 332,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "quantitativeNeume": "Hamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "332"
       },
       {
         "id": 333,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "quantitativeNeume": "Hamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "333"
       },
       {
         "id": 334,
         "elementType": "Note",
-        "quantitativeNeume": "Apostrophos",
+        "quantitativeNeume": "HamiliPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "334"
       },
       {
         "id": 335,
         "elementType": "Note",
-        "quantitativeNeume": "Apostrophos",
+        "quantitativeNeume": "HamiliPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "335"
       },
       {
         "id": 336,
         "elementType": "Note",
-        "quantitativeNeume": "Apostrophos",
+        "quantitativeNeume": "HamiliPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "336"
       },
       {
         "id": 337,
         "elementType": "Note",
-        "quantitativeNeume": "Elaphron",
+        "quantitativeNeume": "HamiliPlusElaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "337"
       },
       {
         "id": 338,
         "elementType": "Note",
-        "quantitativeNeume": "Elaphron",
+        "quantitativeNeume": "HamiliPlusElaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "338"
       },
       {
         "id": 339,
         "elementType": "Note",
-        "quantitativeNeume": "Elaphron",
+        "quantitativeNeume": "HamiliPlusElaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "339"
       },
       {
         "id": 340,
         "elementType": "Note",
-        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "340"
       },
       {
         "id": 341,
         "elementType": "Note",
-        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "341"
       },
       {
         "id": 342,
         "elementType": "Note",
-        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "342"
       },
       {
         "id": 343,
         "elementType": "Note",
-        "quantitativeNeume": "Hamili",
+        "quantitativeNeume": "DoubleHamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "343"
       },
       {
         "id": 344,
         "elementType": "Note",
-        "quantitativeNeume": "Hamili",
+        "quantitativeNeume": "DoubleHamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "344"
       },
       {
         "id": 345,
         "elementType": "Note",
-        "quantitativeNeume": "Hamili",
+        "quantitativeNeume": "DoubleHamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "345"
       },
       {
         "id": 346,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
         "accidental": "Sharp_2_Left",
         "lyrics": "346"
       },
       {
         "id": 347,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
         "accidental": "Sharp_4_Left",
         "lyrics": "347"
       },
       {
         "id": 348,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
         "accidental": "Sharp_6_Left",
         "lyrics": "348"
       },
       {
         "id": 349,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphron",
+        "quantitativeNeume": "DoubleHamiliElafron",
         "accidental": "Sharp_2_Left",
         "lyrics": "349"
       },
       {
         "id": 350,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphron",
+        "quantitativeNeume": "DoubleHamiliElafron",
         "accidental": "Sharp_4_Left",
         "lyrics": "350"
       },
       {
         "id": 351,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphron",
+        "quantitativeNeume": "DoubleHamiliElafron",
         "accidental": "Sharp_6_Left",
         "lyrics": "351"
       },
       {
         "id": 352,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
         "accidental": "Sharp_2_Left",
         "lyrics": "352"
       },
       {
         "id": 353,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
         "accidental": "Sharp_4_Left",
         "lyrics": "353"
       },
       {
         "id": 354,
         "elementType": "Note",
-        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
         "accidental": "Sharp_6_Left",
         "lyrics": "354"
       },
       {
         "id": 355,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamili",
+        "quantitativeNeume": "TripleHamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "355"
       },
       {
         "id": 356,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamili",
+        "quantitativeNeume": "TripleHamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "356"
       },
       {
         "id": 357,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamili",
+        "quantitativeNeume": "TripleHamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "357"
       },
       {
         "id": 358,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "quantitativeNeume": "PetastiPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "358"
       },
       {
         "id": 359,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "quantitativeNeume": "PetastiPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "359"
       },
       {
         "id": 360,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "quantitativeNeume": "PetastiPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "360"
       },
       {
         "id": 361,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafron",
+        "quantitativeNeume": "PetastiPlusElaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "361"
       },
       {
         "id": 362,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafron",
+        "quantitativeNeume": "PetastiPlusElaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "362"
       },
       {
         "id": 363,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafron",
+        "quantitativeNeume": "PetastiPlusElaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "363"
       },
       {
         "id": 364,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "364"
       },
       {
         "id": 365,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "365"
       },
       {
         "id": 366,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "366"
       },
       {
         "id": 367,
         "elementType": "Note",
-        "quantitativeNeume": "TripleHamili",
+        "quantitativeNeume": "PetastiHamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "367"
       },
       {
         "id": 368,
         "elementType": "Note",
-        "quantitativeNeume": "TripleHamili",
+        "quantitativeNeume": "PetastiHamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "368"
       },
       {
         "id": 369,
         "elementType": "Note",
-        "quantitativeNeume": "TripleHamili",
+        "quantitativeNeume": "PetastiHamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "369"
       },
       {
         "id": 370,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
         "accidental": "Sharp_2_Left",
         "lyrics": "370"
       },
       {
         "id": 371,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
         "accidental": "Sharp_4_Left",
         "lyrics": "371"
       },
       {
         "id": 372,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
         "accidental": "Sharp_6_Left",
         "lyrics": "372"
       },
       {
         "id": 373,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphron",
+        "quantitativeNeume": "PetastiHamiliElafron",
         "accidental": "Sharp_2_Left",
         "lyrics": "373"
       },
       {
         "id": 374,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphron",
+        "quantitativeNeume": "PetastiHamiliElafron",
         "accidental": "Sharp_4_Left",
         "lyrics": "374"
       },
       {
         "id": 375,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphron",
+        "quantitativeNeume": "PetastiHamiliElafron",
         "accidental": "Sharp_6_Left",
         "lyrics": "375"
       },
       {
         "id": 376,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
         "accidental": "Sharp_2_Left",
         "lyrics": "376"
       },
       {
         "id": 377,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
         "accidental": "Sharp_4_Left",
         "lyrics": "377"
       },
       {
         "id": 378,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
         "accidental": "Sharp_6_Left",
         "lyrics": "378"
       },
       {
         "id": 379,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamili",
+        "quantitativeNeume": "PetastiDoubleHamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "379"
       },
       {
         "id": 380,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamili",
+        "quantitativeNeume": "PetastiDoubleHamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "380"
       },
       {
         "id": 381,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamili",
+        "quantitativeNeume": "PetastiDoubleHamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "381"
       },
       {
         "id": 382,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
         "accidental": "Sharp_2_Left",
         "lyrics": "382"
       },
       {
         "id": 383,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
         "accidental": "Sharp_4_Left",
         "lyrics": "383"
       },
       {
         "id": 384,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
         "accidental": "Sharp_6_Left",
         "lyrics": "384"
       },
       {
         "id": 385,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafron",
+        "quantitativeNeume": "OligonPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "385"
       },
       {
         "id": 386,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafron",
+        "quantitativeNeume": "OligonPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "386"
       },
       {
         "id": 387,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafron",
+        "quantitativeNeume": "OligonPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "387"
       },
       {
         "id": 388,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "quantitativeNeume": "KentemataPlusOligon",
         "accidental": "Sharp_2_Left",
         "lyrics": "388"
       },
       {
         "id": 389,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "quantitativeNeume": "KentemataPlusOligon",
         "accidental": "Sharp_4_Left",
         "lyrics": "389"
       },
       {
         "id": 390,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "quantitativeNeume": "KentemataPlusOligon",
         "accidental": "Sharp_6_Left",
         "lyrics": "390"
       },
       {
         "id": 391,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamili",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "391"
       },
       {
         "id": 392,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamili",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "392"
       },
       {
         "id": 393,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamili",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "393"
       },
       {
         "id": 394,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "394"
       },
       {
         "id": 395,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "395"
       },
       {
         "id": 396,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "396"
       },
       {
         "id": 397,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemata",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "397"
       },
       {
         "id": 398,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemata",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "398"
       },
       {
         "id": 399,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemata",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "399"
       },
       {
         "id": 400,
         "elementType": "Note",
-        "quantitativeNeume": "KentemataPlusOligon",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "400"
       },
       {
         "id": 401,
         "elementType": "Note",
-        "quantitativeNeume": "KentemataPlusOligon",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "401"
       },
       {
         "id": 402,
         "elementType": "Note",
-        "quantitativeNeume": "KentemataPlusOligon",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "402"
       },
       {
         "id": 403,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "403"
       },
       {
         "id": 404,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "404"
       },
       {
         "id": 405,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "405"
       },
       {
         "id": 406,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "406"
       },
       {
         "id": 407,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "407"
       },
       {
         "id": 408,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "408"
       },
       {
         "id": 409,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "quantitativeNeume": "RunningElaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "409"
       },
       {
         "id": 410,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "quantitativeNeume": "RunningElaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "410"
       },
       {
         "id": 411,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "quantitativeNeume": "RunningElaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "411"
       },
       {
         "id": 412,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "quantitativeNeume": "Hyporoe",
         "accidental": "Sharp_2_Left",
         "lyrics": "412"
       },
       {
         "id": 413,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "quantitativeNeume": "Hyporoe",
         "accidental": "Sharp_4_Left",
         "lyrics": "413"
       },
       {
         "id": 414,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "quantitativeNeume": "Hyporoe",
         "accidental": "Sharp_6_Left",
         "lyrics": "414"
       },
       {
         "id": 415,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "415"
       },
       {
         "id": 416,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "416"
       },
       {
         "id": 417,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "417"
       },
       {
         "id": 418,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "quantitativeNeume": "PetastiPlusHyporoe",
         "accidental": "Sharp_2_Left",
         "lyrics": "418"
       },
       {
         "id": 419,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "quantitativeNeume": "PetastiPlusHyporoe",
         "accidental": "Sharp_4_Left",
         "lyrics": "419"
       },
       {
         "id": 420,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "quantitativeNeume": "PetastiPlusHyporoe",
         "accidental": "Sharp_6_Left",
         "lyrics": "420"
       },
       {
         "id": 421,
         "elementType": "Note",
-        "quantitativeNeume": "RunningElaphron",
+        "quantitativeNeume": "OligonPlusIson",
         "accidental": "Sharp_2_Left",
         "lyrics": "421"
       },
       {
         "id": 422,
         "elementType": "Note",
-        "quantitativeNeume": "RunningElaphron",
+        "quantitativeNeume": "OligonPlusIson",
         "accidental": "Sharp_4_Left",
         "lyrics": "422"
       },
       {
         "id": 423,
         "elementType": "Note",
-        "quantitativeNeume": "RunningElaphron",
+        "quantitativeNeume": "OligonPlusIson",
         "accidental": "Sharp_6_Left",
         "lyrics": "423"
       },
       {
         "id": 424,
         "elementType": "Note",
-        "quantitativeNeume": "Hyporoe",
+        "quantitativeNeume": "OligonPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "424"
       },
       {
         "id": 425,
         "elementType": "Note",
-        "quantitativeNeume": "Hyporoe",
+        "quantitativeNeume": "OligonPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "425"
       },
       {
         "id": 426,
         "elementType": "Note",
-        "quantitativeNeume": "Hyporoe",
+        "quantitativeNeume": "OligonPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "426"
       },
       {
         "id": 427,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "quantitativeNeume": "OligonPlusElaphron",
         "accidental": "Sharp_2_Left",
         "lyrics": "427"
       },
       {
         "id": 428,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "quantitativeNeume": "OligonPlusElaphron",
         "accidental": "Sharp_4_Left",
         "lyrics": "428"
       },
       {
         "id": 429,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "quantitativeNeume": "OligonPlusElaphron",
         "accidental": "Sharp_6_Left",
         "lyrics": "429"
       },
       {
         "id": 430,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHyporoe",
+        "quantitativeNeume": "OligonPlusHyporoe",
         "accidental": "Sharp_2_Left",
         "lyrics": "430"
       },
       {
         "id": 431,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHyporoe",
+        "quantitativeNeume": "OligonPlusHyporoe",
         "accidental": "Sharp_4_Left",
         "lyrics": "431"
       },
       {
         "id": 432,
         "elementType": "Note",
-        "quantitativeNeume": "PetastiPlusHyporoe",
+        "quantitativeNeume": "OligonPlusHyporoe",
         "accidental": "Sharp_6_Left",
         "lyrics": "432"
       },
       {
         "id": 433,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIson",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "433"
       },
       {
         "id": 434,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIson",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "434"
       },
       {
         "id": 435,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusIson",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "435"
       },
       {
         "id": 436,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophos",
+        "quantitativeNeume": "OligonPlusHamili",
         "accidental": "Sharp_2_Left",
         "lyrics": "436"
       },
       {
         "id": 437,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophos",
+        "quantitativeNeume": "OligonPlusHamili",
         "accidental": "Sharp_4_Left",
         "lyrics": "437"
       },
       {
         "id": 438,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusApostrophos",
+        "quantitativeNeume": "OligonPlusHamili",
         "accidental": "Sharp_6_Left",
         "lyrics": "438"
       },
       {
         "id": 439,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphron",
+        "quantitativeNeume": "OligonPlusKentima",
         "accidental": "Sharp_2_Left",
         "lyrics": "439"
       },
       {
         "id": 440,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphron",
+        "quantitativeNeume": "OligonPlusKentima",
         "accidental": "Sharp_4_Left",
         "lyrics": "440"
       },
       {
         "id": 441,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphron",
+        "quantitativeNeume": "OligonPlusKentima",
         "accidental": "Sharp_6_Left",
         "lyrics": "441"
       },
       {
         "id": 442,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoe",
+        "quantitativeNeume": "Kentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "442"
       },
       {
         "id": 443,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoe",
+        "quantitativeNeume": "Kentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "443"
       },
       {
         "id": 444,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHyporoe",
+        "quantitativeNeume": "Kentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "444"
       },
       {
         "id": 445,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "445"
       },
       {
         "id": 446,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "446"
       },
       {
         "id": 447,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "quantitativeNeume": "DoubleApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "447"
       },
       {
         "id": 448,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamili",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
         "accidental": "Sharp_2_Left",
         "lyrics": "448"
       },
       {
         "id": 449,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamili",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
         "accidental": "Sharp_4_Left",
         "lyrics": "449"
       },
       {
         "id": 450,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusHamili",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
         "accidental": "Sharp_6_Left",
         "lyrics": "450"
       },
       {
         "id": 451,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentima",
+        "quantitativeNeume": "IsonPlusApostrophos",
         "accidental": "Sharp_2_Left",
         "lyrics": "451"
       },
       {
         "id": 452,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentima",
+        "quantitativeNeume": "IsonPlusApostrophos",
         "accidental": "Sharp_4_Left",
         "lyrics": "452"
       },
       {
         "id": 453,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentima",
+        "quantitativeNeume": "IsonPlusApostrophos",
         "accidental": "Sharp_6_Left",
         "lyrics": "453"
       },
       {
         "id": 454,
         "elementType": "Note",
-        "quantitativeNeume": "Kentemata",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
         "accidental": "Sharp_2_Left",
         "lyrics": "454"
       },
       {
         "id": 455,
         "elementType": "Note",
-        "quantitativeNeume": "Kentemata",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
         "accidental": "Sharp_4_Left",
         "lyrics": "455"
       },
       {
         "id": 456,
         "elementType": "Note",
-        "quantitativeNeume": "Kentemata",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
         "accidental": "Sharp_6_Left",
         "lyrics": "456"
       },
       {
         "id": 457,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleApostrophos",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
         "accidental": "Sharp_2_Left",
         "lyrics": "457"
       },
       {
         "id": 458,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleApostrophos",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
         "accidental": "Sharp_4_Left",
         "lyrics": "458"
       },
       {
         "id": 459,
         "elementType": "Note",
-        "quantitativeNeume": "DoubleApostrophos",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
         "accidental": "Sharp_6_Left",
         "lyrics": "459"
       },
       {
         "id": 460,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
         "accidental": "Sharp_2_Left",
         "lyrics": "460"
       },
       {
         "id": 461,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
         "accidental": "Sharp_4_Left",
         "lyrics": "461"
       },
       {
         "id": 462,
         "elementType": "Note",
-        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
         "accidental": "Sharp_6_Left",
         "lyrics": "462"
-      },
-      {
-        "id": 463,
-        "elementType": "Note",
-        "quantitativeNeume": "IsonPlusApostrophos",
-        "accidental": "Sharp_2_Left",
-        "lyrics": "463"
-      },
-      {
-        "id": 464,
-        "elementType": "Note",
-        "quantitativeNeume": "IsonPlusApostrophos",
-        "accidental": "Sharp_4_Left",
-        "lyrics": "464"
-      },
-      {
-        "id": 465,
-        "elementType": "Note",
-        "quantitativeNeume": "IsonPlusApostrophos",
-        "accidental": "Sharp_6_Left",
-        "lyrics": "465"
-      },
-      {
-        "id": 466,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaMiddleKentimata",
-        "accidental": "Sharp_2_Left",
-        "lyrics": "466"
-      },
-      {
-        "id": 467,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaMiddleKentimata",
-        "accidental": "Sharp_4_Left",
-        "lyrics": "467"
-      },
-      {
-        "id": 468,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonKentimaMiddleKentimata",
-        "accidental": "Sharp_6_Left",
-        "lyrics": "468"
-      },
-      {
-        "id": 469,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
-        "accidental": "Sharp_2_Left",
-        "lyrics": "469"
-      },
-      {
-        "id": 470,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
-        "accidental": "Sharp_4_Left",
-        "lyrics": "470"
-      },
-      {
-        "id": 471,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
-        "accidental": "Sharp_6_Left",
-        "lyrics": "471"
-      },
-      {
-        "id": 472,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
-        "accidental": "Sharp_2_Left",
-        "lyrics": "472"
-      },
-      {
-        "id": 473,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
-        "accidental": "Sharp_4_Left",
-        "lyrics": "473"
-      },
-      {
-        "id": 474,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
-        "accidental": "Sharp_6_Left",
-        "lyrics": "474"
       },
       {
         "elementType": "Empty"
       }
     ],
     "lyrics": {
-      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474"
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462"
     }
   }
 }
