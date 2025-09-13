@@ -25,4 +25,13 @@
 # ~/Projects/neanes/dist/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
 
 # almouzios
-find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+
+# all examples
+# find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+
+# apolytikion
+find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+
+# kontakion
+find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
