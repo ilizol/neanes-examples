@@ -12,7 +12,7 @@
 # ~/Projects/neanes/dist/neanes-cli --silent-html ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
 
 # tests
-# find ../tests -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+find ../tests -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
 # find ../tests -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
@@ -31,7 +31,7 @@
 # find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
 # apolytikion
-find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
 # kontakion
-find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf

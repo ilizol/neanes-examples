@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.4.107",
+  "appVersion": "0.5.6",
   "pageSetup": {
     "pageSize": "Letter",
     "pageSizeUnit": "in",
@@ -684,7 +684,6 @@
         "id": 62,
         "elementType": "Note",
         "quantitativeNeume": "PetastiPlusRunningElaphron",
-        "timeNeume": "Hapli",
         "lyrics": "62"
       },
       {
@@ -698,42 +697,36 @@
         "id": 64,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIson",
-        "timeNeume": "Hapli",
         "lyrics": "64"
       },
       {
         "id": 65,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusApostrophos",
-        "timeNeume": "Hapli",
         "lyrics": "65"
       },
       {
         "id": 66,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphron",
-        "timeNeume": "Hapli",
         "lyrics": "66"
       },
       {
         "id": 67,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHyporoe",
-        "timeNeume": "Hapli",
         "lyrics": "67"
       },
       {
         "id": 68,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
-        "timeNeume": "Hapli",
         "lyrics": "68"
       },
       {
         "id": 69,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHamili",
-        "timeNeume": "Hapli",
         "lyrics": "69"
       },
       {

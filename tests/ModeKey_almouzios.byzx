@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.4.107",
+  "appVersion": "0.5.6",
   "pageSetup": {
     "pageSize": "Letter",
     "pageSizeUnit": "in",
@@ -1220,6 +1220,31 @@
       {
         "id": 39,
         "elementType": "ModeKey",
+        "templateId": 704,
+        "alignment": "center",
+        "mode": 7,
+        "scale": "Diatonic",
+        "scaleNote": "Ga",
+        "martyria": "ModeSign.VarysZo",
+        "note": "ModeSign.Zo",
+        "quantitativeNeumeRight": "OligonPlusHypsiliRight",
+        "color": "#000000",
+        "fontSize": 26.666666666666668,
+        "strokeWidth": 0,
+        "height": 35,
+        "heightAdjustment": 0,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "bpm": 120,
+        "useDefaultStyle": true,
+        "ambitusLowNote": "Pa",
+        "ambitusLowRootSign": "Alpha",
+        "ambitusHighNote": "Pa",
+        "ambitusHighRootSign": "Alpha"
+      },
+      {
+        "id": 40,
+        "elementType": "ModeKey",
         "templateId": 800,
         "alignment": "center",
         "mode": 8,
@@ -1242,7 +1267,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 40,
+        "id": 41,
         "elementType": "ModeKey",
         "templateId": 801,
         "alignment": "center",
@@ -1268,7 +1293,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 41,
+        "id": 42,
         "elementType": "ModeKey",
         "templateId": 802,
         "alignment": "center",
@@ -1293,7 +1318,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 42,
+        "id": 43,
         "elementType": "ModeKey",
         "templateId": 803,
         "alignment": "center",
@@ -1318,7 +1343,7 @@
         "ambitusHighRootSign": "Alpha"
       },
       {
-        "id": 43,
+        "id": 44,
         "elementType": "ModeKey",
         "templateId": 804,
         "alignment": "center",
