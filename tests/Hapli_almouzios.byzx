@@ -798,7 +798,6 @@
         "id": 80,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaBelow",
-        "timeNeume": "Dipli",
         "lyrics": "80"
       },
       {
@@ -1123,7 +1122,6 @@
         "id": 130,
         "elementType": "Note",
         "quantitativeNeume": "KentemataPlusOligon",
-        "timeNeume": "Dipli",
         "lyrics": "130"
       },
       {
@@ -1192,42 +1190,36 @@
         "id": 141,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIson",
-        "timeNeume": "Dipli",
         "lyrics": "141"
       },
       {
         "id": 142,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusApostrophos",
-        "timeNeume": "Dipli",
         "lyrics": "142"
       },
       {
         "id": 143,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphron",
-        "timeNeume": "Dipli",
         "lyrics": "143"
       },
       {
         "id": 144,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHyporoe",
-        "timeNeume": "Dipli",
         "lyrics": "144"
       },
       {
         "id": 145,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
-        "timeNeume": "Dipli",
         "lyrics": "145"
       },
       {
         "id": 146,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHamili",
-        "timeNeume": "Dipli",
         "lyrics": "146"
       },
       {
@@ -1299,7 +1291,6 @@
         "id": 157,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaBelow",
-        "timeNeume": "Tripli",
         "lyrics": "157"
       },
       {
@@ -1624,7 +1615,6 @@
         "id": 207,
         "elementType": "Note",
         "quantitativeNeume": "KentemataPlusOligon",
-        "timeNeume": "Tripli",
         "lyrics": "207"
       },
       {
@@ -1693,42 +1683,36 @@
         "id": 218,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIson",
-        "timeNeume": "Tripli",
         "lyrics": "218"
       },
       {
         "id": 219,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusApostrophos",
-        "timeNeume": "Tripli",
         "lyrics": "219"
       },
       {
         "id": 220,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphron",
-        "timeNeume": "Tripli",
         "lyrics": "220"
       },
       {
         "id": 221,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHyporoe",
-        "timeNeume": "Tripli",
         "lyrics": "221"
       },
       {
         "id": 222,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
-        "timeNeume": "Tripli",
         "lyrics": "222"
       },
       {
         "id": 223,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusHamili",
-        "timeNeume": "Tripli",
         "lyrics": "223"
       },
       {
@@ -1783,11 +1767,504 @@
         "lyrics": "231"
       },
       {
+        "id": 232,
+        "elementType": "Note",
+        "quantitativeNeume": "Ison",
+        "timeNeume": "Tetrapli",
+        "lyrics": "232"
+      },
+      {
+        "id": 233,
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "timeNeume": "Tetrapli",
+        "lyrics": "233"
+      },
+      {
+        "id": 234,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaBelow",
+        "lyrics": "234"
+      },
+      {
+        "id": 235,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentimaAbove",
+        "timeNeume": "Tetrapli",
+        "lyrics": "235"
+      },
+      {
+        "id": 236,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliRight",
+        "timeNeume": "Tetrapli",
+        "lyrics": "236"
+      },
+      {
+        "id": 237,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliLeft",
+        "timeNeume": "Tetrapli",
+        "lyrics": "237"
+      },
+      {
+        "id": 238,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaHorizontal",
+        "timeNeume": "Tetrapli",
+        "lyrics": "238"
+      },
+      {
+        "id": 239,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHypsiliPlusKentimaVertical",
+        "timeNeume": "Tetrapli",
+        "lyrics": "239"
+      },
+      {
+        "id": 240,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusDoubleHypsili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "240"
+      },
+      {
+        "id": 241,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataDoubleYpsili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "241"
+      },
+      {
+        "id": 242,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliRight",
+        "timeNeume": "Tetrapli",
+        "lyrics": "242"
+      },
+      {
+        "id": 243,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaDoubleYpsiliLeft",
+        "timeNeume": "Tetrapli",
+        "lyrics": "243"
+      },
+      {
+        "id": 244,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonTripleYpsili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "244"
+      },
+      {
+        "id": 245,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimataTripleYpsili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "245"
+      },
+      {
+        "id": 246,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaTripleYpsili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "246"
+      },
+      {
+        "id": 247,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiWithIson",
+        "lyrics": "247"
+      },
+      {
+        "id": 248,
+        "elementType": "Note",
+        "quantitativeNeume": "Petasti",
+        "lyrics": "248"
+      },
+      {
+        "id": 249,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusOligon",
+        "lyrics": "249"
+      },
+      {
+        "id": 250,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusKentimaAbove",
+        "lyrics": "250"
+      },
+      {
+        "id": 251,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliRight",
+        "lyrics": "251"
+      },
+      {
+        "id": 252,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliLeft",
+        "lyrics": "252"
+      },
+      {
+        "id": 253,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaHorizontal",
+        "lyrics": "253"
+      },
+      {
+        "id": 254,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHypsiliPlusKentimaVertical",
+        "lyrics": "254"
+      },
+      {
+        "id": 255,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusDoubleHypsili",
+        "lyrics": "255"
+      },
+      {
+        "id": 256,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataDoubleYpsili",
+        "lyrics": "256"
+      },
+      {
+        "id": 257,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliRight",
+        "lyrics": "257"
+      },
+      {
+        "id": 258,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaDoubleYpsiliLeft",
+        "lyrics": "258"
+      },
+      {
+        "id": 259,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiTripleYpsili",
+        "lyrics": "259"
+      },
+      {
+        "id": 260,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimataTripleYpsili",
+        "lyrics": "260"
+      },
+      {
+        "id": 261,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiKentimaTripleYpsili",
+        "lyrics": "261"
+      },
+      {
+        "id": 262,
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "262"
+      },
+      {
+        "id": 263,
+        "elementType": "Note",
+        "quantitativeNeume": "Elaphron",
+        "timeNeume": "Tetrapli",
+        "lyrics": "263"
+      },
+      {
+        "id": 264,
+        "elementType": "Note",
+        "quantitativeNeume": "ElaphronPlusApostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "264"
+      },
+      {
+        "id": 265,
+        "elementType": "Note",
+        "quantitativeNeume": "Hamili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "265"
+      },
+      {
+        "id": 266,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusApostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "266"
+      },
+      {
+        "id": 267,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphron",
+        "timeNeume": "Tetrapli",
+        "lyrics": "267"
+      },
+      {
+        "id": 268,
+        "elementType": "Note",
+        "quantitativeNeume": "HamiliPlusElaphronPlusApostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "268"
+      },
+      {
+        "id": 269,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "269"
+      },
+      {
+        "id": 270,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliApostrofos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "270"
+      },
+      {
+        "id": 271,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafron",
+        "timeNeume": "Tetrapli",
+        "lyrics": "271"
+      },
+      {
+        "id": 272,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleHamiliElafronApostrofos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "272"
+      },
+      {
+        "id": 273,
+        "elementType": "Note",
+        "quantitativeNeume": "TripleHamili",
+        "timeNeume": "Tetrapli",
+        "lyrics": "273"
+      },
+      {
+        "id": 274,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusApostrophos",
+        "lyrics": "274"
+      },
+      {
+        "id": 275,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphron",
+        "lyrics": "275"
+      },
+      {
+        "id": 276,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusElaphronPlusApostrophos",
+        "lyrics": "276"
+      },
+      {
+        "id": 277,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamili",
+        "lyrics": "277"
+      },
+      {
+        "id": 278,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliApostrofos",
+        "lyrics": "278"
+      },
+      {
+        "id": 279,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafron",
+        "lyrics": "279"
+      },
+      {
+        "id": 280,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiHamiliElafronApostrofos",
+        "lyrics": "280"
+      },
+      {
+        "id": 281,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamili",
+        "lyrics": "281"
+      },
+      {
+        "id": 282,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiDoubleHamiliApostrofos",
+        "lyrics": "282"
+      },
+      {
+        "id": 283,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemata",
+        "lyrics": "283"
+      },
+      {
+        "id": 284,
+        "elementType": "Note",
+        "quantitativeNeume": "KentemataPlusOligon",
+        "lyrics": "284"
+      },
+      {
+        "id": 285,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIsonPlusKentemata",
+        "lyrics": "285"
+      },
+      {
+        "id": 286,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophosPlusKentemata",
+        "lyrics": "286"
+      },
+      {
+        "id": 287,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoePlusKentemata",
+        "lyrics": "287"
+      },
+      {
+        "id": 288,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusKentemata",
+        "lyrics": "288"
+      },
+      {
+        "id": 289,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophosPlusKentemata",
+        "lyrics": "289"
+      },
+      {
+        "id": 290,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamiliPlusKentemata",
+        "lyrics": "290"
+      },
+      {
+        "id": 291,
+        "elementType": "Note",
+        "quantitativeNeume": "RunningElaphron",
+        "timeNeume": "Tetrapli",
+        "lyrics": "291"
+      },
+      {
+        "id": 292,
+        "elementType": "Note",
+        "quantitativeNeume": "Hyporoe",
+        "timeNeume": "Tetrapli",
+        "lyrics": "292"
+      },
+      {
+        "id": 293,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusRunningElaphron",
+        "lyrics": "293"
+      },
+      {
+        "id": 294,
+        "elementType": "Note",
+        "quantitativeNeume": "PetastiPlusHyporoe",
+        "lyrics": "294"
+      },
+      {
+        "id": 295,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusIson",
+        "lyrics": "295"
+      },
+      {
+        "id": 296,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusApostrophos",
+        "lyrics": "296"
+      },
+      {
+        "id": 297,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphron",
+        "lyrics": "297"
+      },
+      {
+        "id": 298,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHyporoe",
+        "lyrics": "298"
+      },
+      {
+        "id": 299,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusElaphronPlusApostrophos",
+        "lyrics": "299"
+      },
+      {
+        "id": 300,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusHamili",
+        "lyrics": "300"
+      },
+      {
+        "id": 301,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentima",
+        "timeNeume": "Tetrapli",
+        "lyrics": "301"
+      },
+      {
+        "id": 302,
+        "elementType": "Note",
+        "quantitativeNeume": "Kentemata",
+        "lyrics": "302"
+      },
+      {
+        "id": 303,
+        "elementType": "Note",
+        "quantitativeNeume": "DoubleApostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "303"
+      },
+      {
+        "id": 304,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusRunningElaphronPlusKentemata",
+        "lyrics": "304"
+      },
+      {
+        "id": 305,
+        "elementType": "Note",
+        "quantitativeNeume": "IsonPlusApostrophos",
+        "timeNeume": "Tetrapli",
+        "lyrics": "305"
+      },
+      {
+        "id": 306,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonKentimaMiddleKentimata",
+        "lyrics": "306"
+      },
+      {
+        "id": 307,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliLeft",
+        "lyrics": "307"
+      },
+      {
+        "id": 308,
+        "elementType": "Note",
+        "quantitativeNeume": "OligonPlusKentemataPlusHypsiliRight",
+        "lyrics": "308"
+      },
+      {
         "elementType": "Empty"
       }
     ],
     "lyrics": {
-      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231"
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308"
     }
   }
 }
