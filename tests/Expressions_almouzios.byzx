@@ -522,28 +522,24 @@
         "id": 39,
         "elementType": "Note",
         "quantitativeNeume": "DoubleHamiliApostrofos",
-        "vocalExpressionNeume": "Psifiston",
         "lyrics": "39"
       },
       {
         "id": 40,
         "elementType": "Note",
         "quantitativeNeume": "DoubleHamiliElafron",
-        "vocalExpressionNeume": "Psifiston",
         "lyrics": "40"
       },
       {
         "id": 41,
         "elementType": "Note",
         "quantitativeNeume": "DoubleHamiliElafronApostrofos",
-        "vocalExpressionNeume": "Psifiston",
         "lyrics": "41"
       },
       {
         "id": 42,
         "elementType": "Note",
         "quantitativeNeume": "TripleHamili",
-        "vocalExpressionNeume": "Psifiston",
         "lyrics": "42"
       },
       {
