@@ -1083,6 +1083,25 @@
         "lyrics": "εν"
       },
       {
+        "id": 430,
+        "elementType": "TextBox",
+        "alignment": "left",
+        "color": "#000000",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "fontSize": 21.333333333333332,
+        "fontFamily": "Alegreya Medium",
+        "strokeWidth": 0,
+        "inline": true,
+        "height": 46,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "useDefaultStyle": true
+      },
+      {
         "id": 363,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusKentimaBelow",
