@@ -338,7 +338,6 @@
         "strokeWidth": 0,
         "inline": true,
         "height": 46,
-        "customWidth": 6,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -382,7 +381,6 @@
         "strokeWidth": 0,
         "inline": true,
         "height": 46,
-        "customWidth": 6,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -433,7 +431,6 @@
         "strokeWidth": 0,
         "inline": true,
         "height": 46,
-        "customWidth": 6,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -459,7 +456,6 @@
         "strokeWidth": 0,
         "inline": true,
         "height": 46,
-        "customWidth": 6,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -482,6 +478,14 @@
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
         "lyrics": "ε"
+      },
+      {
+        "id": 433,
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Thi",
+        "rootSign": "DeltaDotted",
+        "scale": "Diatonic"
       },
       {
         "id": 295,

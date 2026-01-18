@@ -324,25 +324,6 @@
         "lyrics": "ν"
       },
       {
-        "id": 6,
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
-      },
-      {
         "id": 7,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
@@ -365,25 +346,6 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "lyrics": "νη"
-      },
-      {
-        "id": 12,
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
       },
       {
         "id": 13,
@@ -414,52 +376,15 @@
         "id": 17,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "νου"
-      },
-      {
-        "id": 18,
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "lyrics": "νου  ",
+        "spaceAfter": -16
       },
       {
         "id": 19,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "σου"
-      },
-      {
-        "id": 20,
-        "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "fontSize": 21.333333333333332,
-        "fontFamily": "Alegreya Medium",
-        "strokeWidth": 0,
-        "inline": true,
-        "height": 65,
-        "customWidth": 0.6666666666666666,
-        "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "lyrics": "  σου",
+        "spaceAfter": 2.6666666666666665
       },
       {
         "id": 21,
@@ -478,7 +403,16 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
-        "lyrics": "ε"
+        "lyrics": "ε",
+        "spaceAfter": -10
+      },
+      {
+        "id": 159,
+        "elementType": "Martyria",
+        "auto": true,
+        "note": "Thi",
+        "rootSign": "DeltaDotted",
+        "scale": "Diatonic"
       },
       {
         "id": 25,
@@ -1628,7 +1562,7 @@
       }
     ],
     "lyrics": {
-      "text": "Εν Ι ορ δα νη βα πτι ζο με νου σου Κυ ρι ε η της Τρι α δος ε φα νε ρω θη προ σκυ νη σις του γαρ Γεν νη το ρος η φω νη προ σε μαρ τυ ρει σοι α γα πη τον σε Υι ον ο νο μα ζου σα και το Πνευ μα εν ει δει πε ρι στε ρας ε βε βαι ου του λο γου το α σφα λες ο ε πι φα νεις Χρι στε ο Θε ος και τον κο σμον φω τι σας δο ξα σοι"
+      "text": "Εν Ι ορ δα νη βα πτι ζο με νου     σου Κυ ρι ε η της Τρι α δος ε φα νε ρω θη προ σκυ νη σις του γαρ Γεν νη το ρος η φω νη προ σε μαρ τυ ρει σοι α γα πη τον σε Υι ον ο νο μα ζου σα και το Πνευ μα εν ει δει πε ρι στε ρας ε βε βαι ου του λο γου το α σφα λες ο ε πι φα νεις Χρι στε ο Θε ος και τον κο σμον φω τι σας δο ξα σοι"
     }
   }
 }
