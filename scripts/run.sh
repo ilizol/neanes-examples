@@ -30,7 +30,7 @@
 # ~/Projects/neanes/dist/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
 
 # almouzios
-# find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
 # all examples
 # find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
@@ -44,5 +44,11 @@
 # kontakion
 # find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
 
+# kontakion_holy_cross_elevation
+# find ../kontakion_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+
 # kontakion_theotokos_annunciation
-find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+
+# kontakion_theotokos_nativity
+# find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
