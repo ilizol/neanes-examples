@@ -3,52 +3,52 @@
 # corepack enable npm && corepack prepare --activate
 # npm install
 # npm run build
-# cp dist/Neanes-*.AppImage dist/neanes-cli
+# cp release/Neanes-*.AppImage release/neanes-cli
 # cd ~/Projects/neanes-examples
 
 # kontakion_prophet_elias
-# ~/Projects/neanes/dist/neanes-cli --silent-pdf ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
+# ~/Projects/neanes/release/neanes-cli --silent-pdf ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
 
-# ~/Projects/neanes/dist/neanes-cli --silent-html ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
+# ~/Projects/neanes/release/neanes-cli --silent-html ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
 
 # bugs
-# find ../bugs -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../bugs -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # tests
-# find ../tests -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../tests -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
-# find ../tests -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../tests -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
-# find ../tests -type f -name 'Accidentals*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
-# find ../tests -type f -name 'Expressions*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
-# find ../tests -type f -name 'Hapli*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
-# find ../tests -type f -name 'Ison*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
-# find ../tests -type f -name 'NoteIndicators*.byzx' -print0 | xargs -0 .~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../tests -type f -name 'Accidentals*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../tests -type f -name 'Expressions*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../tests -type f -name 'Hapli*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../tests -type f -name 'Ison*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../tests -type f -name 'NoteIndicators*.byzx' -print0 | xargs -0 .~/Projects/neanes/release/neanes-cli --silent-pdf
 
-# ~/Projects/neanes/dist/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
+# ~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
 
-# ~/Projects/neanes/dist/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
+# ~/Projects/neanes/release/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
 
 # almouzios
-# find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../ -type f -name '*_almouzios.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # all examples
-# find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion
-# find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_saint_gregory
-# find ../apolytikion_saint_gregory* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../apolytikion_saint_gregory* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion
-# find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_holy_cross_elevation
-# find ../kontakion_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../kontakion_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_theotokos_annunciation
-find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_theotokos_nativity
-# find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/dist/neanes-cli --silent-pdf
+# find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
