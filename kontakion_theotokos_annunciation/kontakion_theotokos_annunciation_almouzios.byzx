@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.9",
+  "appVersion": "0.5.15",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -907,7 +907,7 @@
         "alternateLines": [
           {
             "elementType": "AlternateLine",
-            "x": 2,
+            "x": 0,
             "y": -4,
             "elements": [
               {

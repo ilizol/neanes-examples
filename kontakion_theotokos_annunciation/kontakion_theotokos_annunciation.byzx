@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.9",
+  "appVersion": "0.5.15",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -572,7 +572,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Elaphron",
         "lyrics": "ως",
-        "spaceAfter": -2.6666666666666665
+        "spaceAfter": -5.333333333333333
       },
       {
         "id": 149,
@@ -748,7 +748,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Elaphron",
         "lyrics": "ευ",
-        "spaceAfter": -4
+        "spaceAfter": -5.333333333333333
       },
       {
         "id": 161,
@@ -795,6 +795,7 @@
         "quantitativeNeume": "Petasti",
         "timeNeume": "Klasma_Bottom",
         "lyrics": "στη",
+        "spaceAfter": -2,
         "alternateLines": [
           {
             "elementType": "AlternateLine",
@@ -912,7 +913,7 @@
         "alternateLines": [
           {
             "elementType": "AlternateLine",
-            "x": 2,
+            "x": 0,
             "y": -4,
             "elements": [
               {
