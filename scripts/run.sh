@@ -6,7 +6,7 @@
 # cp release/Neanes-*.AppImage release/neanes-cli
 # cd ~/Projects/neanes-examples
 
-# kontakion_prophet_elias
+# kontakion_prophet_elias_almouzios
 # ~/Projects/neanes/release/neanes-cli --silent-pdf ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
 
 # ~/Projects/neanes/release/neanes-cli --silent-html ../kontakion_prophet_elias/kontakion_prophet_elias_almouzios.byzx
@@ -47,8 +47,11 @@
 # kontakion_holy_cross_elevation
 # find ../kontakion_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
+# kontakion_prophet_elias
+find ../kontakion_prophet_elias* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+
 # kontakion_theotokos_annunciation
-find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_theotokos_nativity
 # find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
