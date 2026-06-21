@@ -38,6 +38,9 @@
 # apolytikion
 # find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
+# apolytikion_holy_epiphany
+find ../apolytikion_holy_epiphany* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+
 # apolytikion_saint_gregory
 # find ../apolytikion_saint_gregory* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
@@ -63,4 +66,4 @@
 # find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_theotokos_nativity
-find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
