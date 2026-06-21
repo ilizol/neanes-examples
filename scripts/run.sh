@@ -39,7 +39,10 @@
 # find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_holy_epiphany
-find ../apolytikion_holy_epiphany* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../apolytikion_holy_epiphany* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+
+# apolytikion_saint_basil_great
+find ../apolytikion_saint_basil_great* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_saint_gregory
 # find ../apolytikion_saint_gregory* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
