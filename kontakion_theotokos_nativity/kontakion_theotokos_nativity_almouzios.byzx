@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.32",
+  "appVersion": "0.5.39",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -159,6 +159,27 @@
           "marginBottom": 0
         }
       ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "strokeWidth": 0,
+          "fontSubfamily": "Regular",
+          "height": 19,
+          "marginTop": 0,
+          "marginBottom": 0
+        }
+      ]
     }
   },
   "footers": {
@@ -226,6 +247,27 @@
       ]
     },
     "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "strokeWidth": 0,
+          "fontSubfamily": "Regular",
+          "height": 19,
+          "marginTop": 0,
+          "marginBottom": 0
+        }
+      ]
+    },
+    "chapterOpening": {
       "elements": [
         {
           "elementType": "TextBox",
@@ -549,6 +591,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -581,6 +624,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -607,6 +651,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -639,6 +684,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -665,6 +711,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -691,6 +738,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -724,6 +772,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true
@@ -750,6 +799,7 @@
         "inline": true,
         "fontSubfamily": "Medium",
         "height": 46,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0,
         "useDefaultStyle": true

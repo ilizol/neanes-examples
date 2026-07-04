@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.32",
+  "appVersion": "0.5.39",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -159,6 +159,27 @@
           "marginBottom": 0
         }
       ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "strokeWidth": 0,
+          "fontSubfamily": "Regular",
+          "height": 19,
+          "marginTop": 0,
+          "marginBottom": 0
+        }
+      ]
     }
   },
   "footers": {
@@ -226,6 +247,27 @@
       ]
     },
     "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Omega",
+          "strokeWidth": 0,
+          "fontSubfamily": "Regular",
+          "height": 19,
+          "marginTop": 0,
+          "marginBottom": 0
+        }
+      ]
+    },
+    "chapterOpening": {
       "elements": [
         {
           "elementType": "TextBox",
@@ -514,7 +556,7 @@
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
         "lyrics": "α",
-        "spaceAfter": -1.3333333333333333
+        "spaceAfter": -2.6666666666666665
       },
       {
         "id": 25,
@@ -522,7 +564,8 @@
         "auto": true,
         "note": "Pa",
         "rootSign": "Alpha",
-        "scale": "Diatonic"
+        "scale": "Diatonic",
+        "spaceAfter": -1.3333333333333333
       },
       {
         "id": 26,
