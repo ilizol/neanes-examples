@@ -1,0 +1,397 @@
+{
+  "version": "1.1",
+  "appVersion": "0.5.39",
+  "pageSetup": {
+    "pageSize": "Letter",
+    "pageSizeUnit": "in",
+    "pageWidth": 816,
+    "pageHeight": 1056,
+    "topMargin": 96,
+    "bottomMargin": 96,
+    "leftMargin": 96,
+    "rightMargin": 96,
+    "headerMargin": 48,
+    "footerMargin": 48,
+    "firstPageNumber": 1,
+    "lineHeight": 72.96000000000001,
+    "lyricsDefaultFontFamily": "Source Serif",
+    "lyricsDefaultFontSize": 16,
+    "lyricsDefaultFontSubfamily": "Regular",
+    "lyricsDefaultColor": "#000000",
+    "lyricsDefaultStrokeWidth": 0,
+    "lyricsVerticalOffset": -4.800000000000001,
+    "lyricsMinimumSpacing": 4.800000000000001,
+    "lyricsMelismaCutoffWidth": 6.666666666666667,
+    "neumeDefaultFontFamily": "Neanes",
+    "neumeDefaultFontSize": 26.666666666666668,
+    "neumeDefaultColor": "#000000",
+    "neumeDefaultSpacing": 0,
+    "neumeDefaultStrokeWidth": 0,
+    "alternateLineDefaultFontSize": 16,
+    "alternateLineDefaultColor": "#ED0000",
+    "modeKeyDefaultColor": "#ED0000",
+    "modeKeyDefaultStrokeWidth": 0,
+    "modeKeyDefaultFontSize": 26.666666666666668,
+    "modeKeyDefaultHeightAdjustment": 0,
+    "accidentalDefaultColor": "#ED0000",
+    "accidentalDefaultStrokeWidth": 0,
+    "fthoraDefaultColor": "#ED0000",
+    "fthoraDefaultStrokeWidth": 0,
+    "heteronDefaultColor": "#ED0000",
+    "heteronDefaultStrokeWidth": 0,
+    "gorgonDefaultColor": "#ED0000",
+    "gorgonDefaultStrokeWidth": 0,
+    "measureBarDefaultColor": "#ED0000",
+    "measureBarDefaultStrokeWidth": 0,
+    "measureNumberDefaultColor": "#000000",
+    "measureNumberDefaultStrokeWidth": 0,
+    "noteIndicatorDefaultColor": "#ED0000",
+    "noteIndicatorDefaultStrokeWidth": 0,
+    "isonDefaultColor": "#ED0000",
+    "isonDefaultStrokeWidth": 0,
+    "breathDefaultColor": "#000000",
+    "breathDefaultStrokeWidth": 0,
+    "crossDefaultColor": "#000000",
+    "crossDefaultStrokeWidth": 0,
+    "koronisDefaultColor": "#ED0000",
+    "koronisDefaultStrokeWidth": 0,
+    "martyriaDefaultColor": "#ED0000",
+    "martyriaDefaultStrokeWidth": 0,
+    "tempoDefaultColor": "#ED0000",
+    "tempoDefaultStrokeWidth": 0,
+    "dropCapDefaultFontFamily": "Source Serif",
+    "dropCapDefaultFontSize": 80,
+    "dropCapDefaultFontSubfamily": "Regular",
+    "dropCapDefaultColor": "#000000",
+    "dropCapDefaultStrokeWidth": 0,
+    "dropCapDefaultLineSpan": 1,
+    "textBoxDefaultFontFamily": "Source Serif",
+    "textBoxDefaultFontSize": 26.666666666666668,
+    "textBoxDefaultFontSubfamily": "Regular",
+    "textBoxDefaultColor": "#000000",
+    "textBoxDefaultStrokeWidth": 0,
+    "hyphenSpacing": 49.60629921259843,
+    "minimumSyllableToHyphenClearance": 13.228346456692915,
+    "martyriaVerticalOffset": 4,
+    "chrysanthineAccidentals": true,
+    "alignIsonIndicators": true,
+    "ignorePunctuationWhenPositioningLyrics": true
+  },
+  "headers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    }
+  },
+  "footers": {
+    "default": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "$p",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "odd": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "$p",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "even": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "$p",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "firstPage": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "$p",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "color": "#000000",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "$p",
+          "contentRight": "",
+          "fontSize": 16,
+          "fontFamily": "Source Serif",
+          "strokeWidth": 0,
+          "multipanel": true,
+          "fontSubfamily": "Regular",
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "useDefaultStyle": true
+        }
+      ]
+    }
+  },
+  "staff": {
+    "elements": [
+      {
+        "id": 1,
+        "elementType": "TextBox",
+        "alignment": "center",
+        "color": "#000000",
+        "content": "Title",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "fontSize": 26.666666666666668,
+        "fontFamily": "Source Serif",
+        "strokeWidth": 0,
+        "fontSubfamily": "Regular",
+        "height": 37,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "useDefaultStyle": true
+      },
+      {
+        "id": 2,
+        "elementType": "ModeKey",
+        "templateId": 100,
+        "alignment": "center",
+        "mode": 1,
+        "scale": "Diatonic",
+        "scaleNote": "Pa",
+        "martyria": "ModeSign.AlphaWithDeltaHat",
+        "note": "ModeSign.Pa",
+        "color": "#ED0000",
+        "fontSize": 26.666666666666668,
+        "strokeWidth": 0,
+        "height": 49,
+        "heightAdjustment": 0,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "bpm": 120,
+        "useDefaultStyle": true,
+        "ambitusLowNote": "Pa",
+        "ambitusLowRootSign": "Alpha",
+        "ambitusHighNote": "Pa",
+        "ambitusHighRootSign": "Alpha"
+      },
+      {
+        "id": 4,
+        "elementType": "RichTextBox",
+        "content": "<p>ήχος.&nbsp;<span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"font-size:26.666666666666668px;height:26.666666666666668px;left:0em;line-height:0.6375;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;<span class=\"neanes-ck-neume ck-widget\" style=\"font-size:45.333333333333336px;height:26.666666666666668px;left:0em;line-height:26.666666666666668px;margin-left:-0.25em;margin-right:0em;top:0.366em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span>. Νη. (regular)</p>",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentRight": "",
+        "contentCenter": "",
+        "modeChangePhysicalNote": "Pa",
+        "modeChangeScale": "Diatonic",
+        "modeChangeBpm": 120,
+        "height": 38.400001525878906,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
+        "id": 5,
+        "elementType": "RichTextBox",
+        "content": "<p><strong>ήχος.&nbsp;<span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"font-size:26.666666666666668px;height:26.666666666666668px;left:0em;line-height:0.6375;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</strong><span class=\"neanes-ck-neume ck-widget\" style=\"font-size:45.333333333333336px;height:26.666666666666668px;left:0em;line-height:26.666666666666668px;margin-left:-0.25em;margin-right:0em;top:0.366em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span><strong>. Νη. (bold)</strong></p>",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentRight": "",
+        "contentCenter": "",
+        "modeChangePhysicalNote": "Pa",
+        "modeChangeScale": "Diatonic",
+        "modeChangeBpm": 120,
+        "height": 38.400001525878906,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
+        "elementType": "Empty"
+      }
+    ],
+    "lyrics": {
+      "text": ""
+    }
+  }
+}
