@@ -36,7 +36,7 @@
 # find ../ -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion
-find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_holy_epiphany
 # find ../apolytikion_holy_epiphany* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
@@ -51,7 +51,10 @@ find ../apolytikion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes
 # find ../apolytikion_saint_john_chrysostom* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion
-find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+
+# custom_mode_key_demo
+find ../custom_mode_key_demo* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_holy_cross_elevation
 # find ../kontakion_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
