@@ -14,11 +14,6 @@
     "footerMargin": 48,
     "firstPageNumber": 1,
     "lineHeight": 80,
-    "lyricsDefaultFontFamily": "GFS Didot",
-    "lyricsDefaultFontSize": 16,
-    "lyricsDefaultFontSubfamily": "Regular",
-    "lyricsDefaultColor": "#000000",
-    "lyricsDefaultStrokeWidth": 0,
     "lyricsVerticalOffset": 4.666666666666667,
     "lyricsMinimumSpacing": 0,
     "lyricsMelismaCutoffWidth": 6.666666666666667,
@@ -59,43 +54,89 @@
     "martyriaDefaultStrokeWidth": 0,
     "tempoDefaultColor": "#800000",
     "tempoDefaultStrokeWidth": 0,
-    "dropCapDefaultFontFamily": "GFS Didot",
-    "dropCapDefaultFontSize": 40,
-    "dropCapDefaultFontSubfamily": "Regular",
-    "dropCapDefaultColor": "#000000",
-    "dropCapDefaultStrokeWidth": 0,
     "dropCapDefaultLineSpan": 1,
-    "textBoxDefaultFontFamily": "GFS Didot",
-    "textBoxDefaultFontSize": 16,
-    "textBoxDefaultFontSubfamily": "Regular",
-    "textBoxDefaultColor": "#000000",
-    "textBoxDefaultStrokeWidth": 0,
     "hyphenSpacing": 0,
     "minimumSyllableToHyphenClearance": 0,
     "martyriaVerticalOffset": 0,
     "chrysanthineAccidentals": true
   },
+  "paragraphStyles": [
+    {
+      "id": "default-text",
+      "displayName": "Default Text",
+      "fontFamily": "GFS Didot"
+    },
+    {
+      "id": "annotation",
+      "displayName": "Annotation",
+      "parentStyleId": "default-text"
+    },
+    {
+      "id": "title",
+      "displayName": "Title",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 37.333333333333336
+    },
+    {
+      "id": "subtitle",
+      "displayName": "Subtitle",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 29.333333333333332
+    },
+    {
+      "id": "chapter",
+      "displayName": "Chapter",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 32
+    },
+    {
+      "id": "section",
+      "displayName": "Section",
+      "parentStyleId": "default-text",
+      "fontSize": 26.666666666666668
+    },
+    {
+      "id": "header",
+      "displayName": "Header",
+      "parentStyleId": "default-text",
+      "alignment": "center"
+    },
+    {
+      "id": "footer",
+      "displayName": "Footer",
+      "parentStyleId": "default-text",
+      "alignment": "center"
+    },
+    {
+      "id": "lyrics",
+      "displayName": "Lyrics",
+      "parentStyleId": "default-text"
+    },
+    {
+      "id": "drop-cap",
+      "displayName": "Drop Cap",
+      "parentStyleId": "default-text",
+      "fontSize": 40
+    }
+  ],
   "headers": {
     "default": {
       "elements": [
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -104,21 +145,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -127,21 +162,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -150,21 +179,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -173,21 +196,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     }
@@ -198,21 +215,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -221,21 +232,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -244,21 +249,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -267,21 +266,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -290,21 +283,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
-          "fontSubfamily": "Regular",
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     }
@@ -315,7 +302,6 @@
         "id": 1,
         "elementType": "TextBox",
         "alignment": "center",
-        "color": "#000000",
         "content": "Custom Mode Key Demo",
         "contentBottom": "",
         "contentLeft": "",
@@ -323,8 +309,6 @@
         "contentRight": "",
         "fontSize": 26.666666666666668,
         "fontFamily": "Source Serif",
-        "strokeWidth": 0,
-        "fontSubfamily": "Regular",
         "height": 37,
         "marginTop": 0,
         "marginBottom": 0
@@ -332,7 +316,7 @@
       {
         "id": 3,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;\"><strong>Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</strong></span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;\"><strong>Βυζαντίου. &nbsp; Ωδή. α. &nbsp; ήχος. &nbsp;&nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.7;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span></span><strong>&nbsp;</strong><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);\"><strong>. &nbsp;&nbsp;</strong></span><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;\"><strong>Νη.</strong></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;font-style:normal;font-weight:700;\">Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Βυζαντίου. &nbsp; Ωδή. α. &nbsp; ήχος. &nbsp;&nbsp;</span><span style=\"font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</span><span style=\"font-style:normal;font-weight:400;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">. &nbsp; Νη.</span></p>",
         "contentBottom": "",
         "contentLeft": "",
         "contentRight": "",
@@ -343,20 +327,14 @@
         "modeChangeIgnoreAttractions": false,
         "modeChangePermanentEnharmonicZo": false,
         "modeChangeBpm": 120,
-        "height": 42.400001525878906,
+        "height": 41.60000228881836,
         "marginTop": 0,
-        "marginBottom": 0
+        "marginBottom": 5.333333333333333
       },
       {
         "id": 4,
         "elementType": "DropCap",
         "content": "θ",
-        "fontFamily": "Source Serif",
-        "fontSize": 80,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -482,7 +460,7 @@
         "id": 26,
         "elementType": "RichTextBox",
         "content": "",
-        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;\"><strong>Έτερον Τήν Σοφίαν καί λό &nbsp;. &nbsp;ήχ . &nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.7;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span></span><strong>&nbsp;</strong><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;\"><strong>&nbsp; . &nbsp;Νη.</strong></span></p>",
+        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;font-style:normal;font-weight:700;\">Έτερον Τήν Σοφίαν καί λό &nbsp;. &nbsp;ήχ . &nbsp;</span><span style=\"font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;font-style:normal;font-weight:700;\">&nbsp; . &nbsp;Νη.</span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -502,12 +480,6 @@
         "id": 46,
         "elementType": "DropCap",
         "content": "Τ",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -661,8 +633,8 @@
       {
         "id": 50,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Τη Αγία καί μεγάλη Δευτέρα. Πέτρου Λαμπαδ.</strong></span></p>",
-        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Ωδή. &nbsp; α. &nbsp; ήχος . &nbsp;&nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.SoftChromatic2\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);\"><strong>&nbsp;. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Πα.</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.96em;line-height:16px;margin-left:0em;margin-right:-0.91em;top:0.3em;\" neumetype=\"single\" neume=\"HardChromaticPa\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Τη Αγία καί μεγάλη Δευτέρα. Πέτρου Λαμπαδ.</span></p>",
+        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ωδή. &nbsp; α. &nbsp; ήχος . &nbsp;&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.SoftChromatic2\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp;. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Πα.</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.96em;line-height:16px;margin-left:0em;margin-right:-0.91em;top:0.3em;\" neumetype=\"single\" neume=\"HardChromaticPa\" contenteditable=\"false\"></span></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -682,12 +654,6 @@
         "id": 52,
         "elementType": "DropCap",
         "content": "Τ",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -842,12 +808,6 @@
         "id": 73,
         "elementType": "DropCap",
         "content": "Β",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -915,8 +875,8 @@
       {
         "id": 84,
         "elementType": "RichTextBox",
-        "content": "<p><span style=\"color:hsl(0,100%,25%);\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Έτερον. Κατεπλάγη</strong></span></p>",
-        "contentBottom": "<p><span style=\"color:hsl(0,100%,25%);\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ιωσήφ . ήχος . &nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Έτερον. Κατεπλάγη</span></p>",
+        "contentBottom": "<p><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -945,12 +905,6 @@
         "id": 86,
         "elementType": "DropCap",
         "content": "Β",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -1018,8 +972,8 @@
       {
         "id": 96,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Έτερον. Κατεπλάγη</strong></span></p>",
-        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Ιωσήφ . ήχος . &nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.8em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον. Κατεπλάγη</span></p>",
+        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.8em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1039,12 +993,6 @@
         "id": 97,
         "elementType": "DropCap",
         "content": "Β",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -1113,8 +1061,8 @@
         "id": 107,
         "pageBreak": true,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);\"><strong>&nbsp;Έτερον. Κατεπλάγη &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></p>",
-        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Ιωσήφ . ήχος . &nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:-0.8em;\" neumetype=\"martyria\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον. Κατεπλάγη &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:-0.8em;\" neumetype=\"martyria\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1133,7 +1081,7 @@
       {
         "id": 108,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);\"><strong>Έτερον σύντομον</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.8em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"SoftChromaticSquiggle\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον σύντομον</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.5em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"SoftChromaticSquiggle\" contenteditable=\"false\"></span></span></p>",
         "contentBottom": "",
         "contentLeft": "",
         "contentRight": "",
@@ -1152,12 +1100,6 @@
         "id": 109,
         "elementType": "DropCap",
         "content": "Α",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
@@ -1190,23 +1132,16 @@
       {
         "id": 171,
         "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
         "content": "",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
         "contentRight": "",
-        "fontSize": 16,
-        "fontFamily": "GFS Didot",
-        "strokeWidth": 0,
         "inline": true,
-        "fontSubfamily": "Regular",
         "height": 35,
         "customWidth": 2.6666666666666665,
         "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "marginBottom": 0
       },
       {
         "id": 114,
@@ -1218,23 +1153,16 @@
       {
         "id": 172,
         "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
         "content": "",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
         "contentRight": "",
-        "fontSize": 16,
-        "fontFamily": "GFS Didot",
-        "strokeWidth": 0,
         "inline": true,
-        "fontSubfamily": "Regular",
         "height": 35,
         "customWidth": 2.6666666666666665,
         "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "marginBottom": 0
       },
       {
         "id": 115,
@@ -1293,23 +1221,16 @@
       {
         "id": 173,
         "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
         "content": "",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
         "contentRight": "",
-        "fontSize": 16,
-        "fontFamily": "GFS Didot",
-        "strokeWidth": 0,
         "inline": true,
-        "fontSubfamily": "Regular",
         "height": 35,
         "customWidth": 2.6666666666666665,
         "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "marginBottom": 0
       },
       {
         "id": 123,
@@ -1371,23 +1292,16 @@
       {
         "id": 174,
         "elementType": "TextBox",
-        "alignment": "left",
-        "color": "#000000",
         "content": "",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
         "contentRight": "",
-        "fontSize": 16,
-        "fontFamily": "GFS Didot",
-        "strokeWidth": 0,
         "inline": true,
-        "fontSubfamily": "Regular",
         "height": 35,
         "customWidth": 2.6666666666666665,
         "marginTop": 0,
-        "marginBottom": 0,
-        "useDefaultStyle": true
+        "marginBottom": 0
       },
       {
         "id": 133,
@@ -1458,8 +1372,8 @@
       {
         "id": 139,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><strong>Δόξα. Καί νυν.</strong></p>",
-        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;\"><strong>Ήχος &nbsp;</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.7;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span><strong>&nbsp;&nbsp;</strong><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Alpha\" contenteditable=\"false\"></span><strong>&nbsp; </strong></span><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;\"><strong>Πα</strong></span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.8em;line-height:16px;margin-left:0em;margin-right:-0.9em;top:0.2em;\" neumetype=\"single\" neume=\"DiatonicPa\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"font-style:normal;font-weight:700;\">Δόξα. Καί νυν.</span></p>",
+        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Ήχος &nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Alpha\" contenteditable=\"false\"></span></span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">&nbsp; </span><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Πα</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.8em;line-height:16px;margin-left:0em;margin-right:-0.9em;top:0.2em;\" neumetype=\"single\" neume=\"DiatonicPa\" contenteditable=\"false\"></span></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1479,12 +1393,6 @@
         "id": 143,
         "elementType": "DropCap",
         "content": "Δ",
-        "fontFamily": "GFS Didot",
-        "fontSize": 40,
-        "fontSubfamily": "Regular",
-        "strokeWidth": 0,
-        "color": "#000000",
-        "useDefaultStyle": true,
         "lineSpan": 1
       },
       {
