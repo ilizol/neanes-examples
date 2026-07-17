@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.39",
+  "appVersion": "0.5.43",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -334,7 +334,7 @@
       {
         "id": 4,
         "elementType": "DropCap",
-        "content": "θ",
+        "content": "Θ",
         "lineSpan": 1
       },
       {
@@ -876,7 +876,7 @@
         "id": 84,
         "elementType": "RichTextBox",
         "content": "<p><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Έτερον. Κατεπλάγη</span></p>",
-        "contentBottom": "<p><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span></p>",
+        "contentBottom": "<p><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -899,7 +899,8 @@
         "note": "Thi",
         "rootSign": "Tilt",
         "scale": "HardChromatic",
-        "alignRight": true
+        "alignRight": true,
+        "verticalOffset": 10.666666666666666
       },
       {
         "id": 86,
@@ -973,7 +974,7 @@
         "id": 96,
         "elementType": "RichTextBox",
         "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον. Κατεπλάγη</span></p>",
-        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.8em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
+        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.6em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1062,7 +1063,7 @@
         "pageBreak": true,
         "elementType": "RichTextBox",
         "content": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον. Κατεπλάγη &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
-        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:-0.8em;\" neumetype=\"martyria\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
+        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ιωσήφ . ήχος . &nbsp;</span><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-feature-settings:&quot;salt&quot;;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.DeltaWithDeltaHat\" contenteditable=\"false\"></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:-0.65em;\" neumetype=\"martyria\" martyrianote=\"Thi\" martyriarootsign=\"Tilt\" contenteditable=\"false\"></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1081,7 +1082,7 @@
       {
         "id": 108,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον σύντομον</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.5em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"SoftChromaticSquiggle\" contenteditable=\"false\"></span></span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Έτερον σύντομον</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume neanes-ck-neume-align-right ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;line-height:16px;margin-left:0em;margin-right:0em;right:0em;top:-0.6em;\" neumetype=\"martyria\" alignright=\"true\" martyrianote=\"Thi\" martyriarootsign=\"SoftChromaticSquiggle\" contenteditable=\"false\"></span></span></p>",
         "contentBottom": "",
         "contentLeft": "",
         "contentRight": "",
@@ -1559,7 +1560,7 @@
       }
     ],
     "lyrics": {
-      "text": "θΑ λασ σαν _ ε πη__ ξας\n\nα ζο____ με εν\n\nΤΩν πα θω ω ω ων του Κυ ριου___ η__σου______\n\nΤΩ τη ην α βα__ τον__ κυ μαι νο με νην___ θα λα ασ σαν\n\nΒΟυ λευ τη ρι ο____ ον\n\n\n\nΒΟυ λευ τη ρι ο____ ον\n\nΒΟυ λευ τη ρι ο____ ον\n\n\n\nΑ_ γι__ ος ο Θε__ ος Α γι__ ος Ι σχυρος___ Α γι ος Α θα νατος___\n\nο σμου\n\nΔευ___ τεχρι___ στο φο ροι λα οικα___ τι ι ι δω _ ω__ μεν"
+      "text": "ΘΑ λασ σαν _ ε πη__ ξας\n\nα ζο____ με εν\n\nΤΩν πα θω ω ω ων του Κυ ριου___ η__σου______\n\nΤΩ τη ην α βα__ τον__ κυ μαι νο με νην___ θα λα ασ σαν\n\nΒΟυ λευ τη ρι ο____ ον\n\n\n\nΒΟυ λευ τη ρι ο____ ον\n\nΒΟυ λευ τη ρι ο____ ον\n\n\n\nΑ_ γι__ ος ο Θε__ ος Α γι__ ος Ι σχυρος___ Α γι ος Α θα νατος___\n\nο σμου\n\nΔευ___ τεχρι___ στο φο ροι λα οικα___ τι ι ι δω _ ω__ μεν"
     }
   }
 }
