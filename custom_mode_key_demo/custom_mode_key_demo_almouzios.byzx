@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.43",
+  "appVersion": "0.5.45",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -314,9 +314,24 @@
         "marginBottom": 0
       },
       {
+        "id": 175,
+        "elementType": "RichTextBox",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Neanes;font-style:normal;font-weight:700;\">Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</span></p>",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentRight": "",
+        "contentCenter": "",
+        "modeChangePhysicalNote": "Pa",
+        "modeChangeScale": "Diatonic",
+        "modeChangeBpm": 120,
+        "height": 20.80000114440918,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
         "id": 3,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Almouzios;font-style:normal;font-weight:700;\">Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</span></p><p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Βυζαντίου. &nbsp; Ωδή. α. &nbsp; ήχος. &nbsp;&nbsp;</span><span style=\"font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</span><span style=\"font-style:normal;font-weight:400;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">. &nbsp; Νη.</span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Βυζαντίου. &nbsp; Ωδή. α. &nbsp; ήχος. &nbsp;&nbsp;</span><span style=\"font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</span><span style=\"font-style:normal;font-weight:400;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Delta\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">. &nbsp;Νη.</span></p>",
         "contentBottom": "",
         "contentLeft": "",
         "contentRight": "",
@@ -327,9 +342,9 @@
         "modeChangeIgnoreAttractions": false,
         "modeChangePermanentEnharmonicZo": false,
         "modeChangeBpm": 120,
-        "height": 41.60000228881836,
-        "marginTop": 0,
-        "marginBottom": 5.333333333333333
+        "height": 20.80000114440918,
+        "marginTop": 5.333333333333333,
+        "marginBottom": 0
       },
       {
         "id": 4,
@@ -634,7 +649,7 @@
         "id": 50,
         "elementType": "RichTextBox",
         "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Τη Αγία καί μεγάλη Δευτέρα. Πέτρου Λαμπαδ.</span></p>",
-        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ωδή. &nbsp; α. &nbsp; ήχος . &nbsp;&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.SoftChromatic2\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp;. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Πα.</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.96em;line-height:16px;margin-left:0em;margin-right:-0.91em;top:0.3em;\" neumetype=\"single\" neume=\"HardChromaticPa\" contenteditable=\"false\"></span></span></p>",
+        "contentBottom": "<p style=\"text-align:right;\"><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">Ωδή . &nbsp; α . &nbsp; ήχος . &nbsp;&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.SoftChromatic2\" contenteditable=\"false\"></span></span><span style=\"color:hsl(0,100%,25%);font-style:normal;font-weight:700;\">&nbsp;. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Πα.</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.95em;line-height:16px;margin-left:0em;margin-right:-0.9em;top:0.3em;\" neumetype=\"single\" neume=\"HardChromaticPa\" contenteditable=\"false\"></span></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
@@ -1374,7 +1389,7 @@
         "id": 139,
         "elementType": "RichTextBox",
         "content": "<p style=\"text-align:center;\"><span style=\"font-style:normal;font-weight:700;\">Δόξα. Καί νυν.</span></p>",
-        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Ήχος &nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Alpha\" contenteditable=\"false\"></span></span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">&nbsp; </span><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Πα</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.8em;line-height:16px;margin-left:0em;margin-right:-0.9em;top:0.2em;\" neumetype=\"single\" neume=\"DiatonicPa\" contenteditable=\"false\"></span></span></p>",
+        "contentBottom": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Ήχος&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\"><span class=\"neanes-ck-neume neanes-ck-neume-plagal ck-widget\" style=\"color:#800000;font-size:16px;height:16px;left:0em;line-height:0.6;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"plagal\" contenteditable=\"false\"><span>λ</span><span>π</span></span>&nbsp;</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:0em;line-height:16px;margin-left:0em;margin-right:0em;top:0em;\" neumetype=\"single\" neume=\"ModeSign.Alpha\" contenteditable=\"false\"></span></span><span style=\"font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">&nbsp;</span><span style=\"color:hsl(0,100%,25%);font-family:GFS Didot,Almouzios;font-style:normal;font-weight:700;\">Πα</span><span style=\"font-family:GFS Didot,Almouzios;\"><span class=\"neanes-ck-neume ck-widget\" style=\"color:#800000;font-size:27.2px;height:16px;left:-0.8em;line-height:16px;margin-left:0em;margin-right:-0.9em;top:0.2em;\" neumetype=\"single\" neume=\"DiatonicPa\" contenteditable=\"false\"></span></span></p>",
         "contentLeft": "",
         "contentRight": "",
         "contentCenter": "",
