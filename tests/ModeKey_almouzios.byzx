@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.6",
+  "appVersion": "0.5.45",
   "pageSetup": {
     "pageSize": "Letter",
     "pageSizeUnit": "in",
@@ -14,12 +14,6 @@
     "footerMargin": 48,
     "firstPageNumber": 1,
     "lineHeight": 72.96000000000001,
-    "lyricsDefaultFontFamily": "Source Serif",
-    "lyricsDefaultFontSize": 16,
-    "lyricsDefaultFontWeight": "400",
-    "lyricsDefaultFontStyle": "normal",
-    "lyricsDefaultColor": "#000000",
-    "lyricsDefaultStrokeWidth": 0,
     "lyricsVerticalOffset": 0,
     "lyricsMinimumSpacing": 4.800000000000001,
     "lyricsMelismaCutoffWidth": 6.666666666666667,
@@ -60,44 +54,92 @@
     "martyriaDefaultStrokeWidth": 0,
     "tempoDefaultColor": "#ED0000",
     "tempoDefaultStrokeWidth": 0,
-    "dropCapDefaultFontFamily": "Source Serif",
-    "dropCapDefaultFontSize": 80,
-    "dropCapDefaultFontWeight": "400",
-    "dropCapDefaultFontStyle": "normal",
-    "dropCapDefaultColor": "#000000",
-    "dropCapDefaultStrokeWidth": 0,
     "dropCapDefaultLineSpan": 1,
-    "textBoxDefaultFontFamily": "Source Serif",
-    "textBoxDefaultFontSize": 26.666666666666668,
-    "textBoxDefaultFontWeight": "400",
-    "textBoxDefaultFontStyle": "normal",
-    "textBoxDefaultColor": "#000000",
-    "textBoxDefaultStrokeWidth": 0,
     "hyphenSpacing": 72,
+    "minimumSyllableToHyphenClearance": 19.2,
     "martyriaVerticalOffset": 0,
     "chrysanthineAccidentals": true,
     "alignIsonIndicators": true
   },
+  "paragraphStyles": [
+    {
+      "id": "default-text",
+      "displayName": "Default Text",
+      "fontSize": 26.666666666666668
+    },
+    {
+      "id": "annotation",
+      "displayName": "Annotation",
+      "parentStyleId": "default-text",
+      "fontSize": 16
+    },
+    {
+      "id": "title",
+      "displayName": "Title",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 37.333333333333336
+    },
+    {
+      "id": "subtitle",
+      "displayName": "Subtitle",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 29.333333333333332
+    },
+    {
+      "id": "chapter",
+      "displayName": "Chapter",
+      "parentStyleId": "default-text",
+      "alignment": "center",
+      "fontSize": 32
+    },
+    {
+      "id": "section",
+      "displayName": "Section",
+      "parentStyleId": "default-text",
+      "fontSize": 26.666666666666668
+    },
+    {
+      "id": "header",
+      "displayName": "Header",
+      "parentStyleId": "default-text",
+      "alignment": "center"
+    },
+    {
+      "id": "footer",
+      "displayName": "Footer",
+      "parentStyleId": "default-text",
+      "alignment": "center"
+    },
+    {
+      "id": "lyrics",
+      "displayName": "Lyrics",
+      "parentStyleId": "default-text",
+      "fontSize": 16
+    },
+    {
+      "id": "drop-cap",
+      "displayName": "Drop Cap",
+      "parentStyleId": "default-text",
+      "fontSize": 80
+    }
+  ],
   "headers": {
     "default": {
       "elements": [
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -106,20 +148,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -128,20 +165,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -150,20 +182,32 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
+        }
+      ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0
         }
       ]
     }
@@ -174,20 +218,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -196,20 +235,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -218,20 +252,15 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
         }
       ]
     },
@@ -240,20 +269,32 @@
         {
           "elementType": "TextBox",
           "alignment": "left",
-          "color": "#000000",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
           "contentCenter": "",
           "contentRight": "",
-          "fontSize": 16,
-          "fontFamily": "Source Serif",
-          "strokeWidth": 0,
           "multipanel": true,
           "height": 20,
           "marginTop": 0,
-          "marginBottom": 0,
-          "useDefaultStyle": true
+          "marginBottom": 0
+        }
+      ]
+    },
+    "chapterOpening": {
+      "elements": [
+        {
+          "elementType": "TextBox",
+          "alignment": "left",
+          "content": "",
+          "contentBottom": "",
+          "contentLeft": "",
+          "contentCenter": "",
+          "contentRight": "",
+          "multipanel": true,
+          "height": 20,
+          "marginTop": 0,
+          "marginBottom": 0
         }
       ]
     }
