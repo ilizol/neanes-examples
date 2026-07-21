@@ -1,0 +1,409 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/Neanes.css"
+    />
+    
+    <script src="https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/byzhtml.min.js"></script>
+
+    
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+
+    <meta charset="UTF-8">
+
+    <style>
+      @font-face {
+        font-family: 'Almouzios';
+        /* TODO change this */
+        /* src: url(https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/Almouzios.otf); */
+        src: url(https://cdn.jsdelivr.net/gh/ilizol/Almouzios/Almouzios.otf);
+        /* TODO change this for debug */
+        /* src: url(../../Almouzios/Almouzios.otf); */
+        unicode-range: U+E000–F8FF;
+      }
+
+      :root {
+        
+        --byz-neume-font-family: Almouzios;
+        --byz-neume-font-size: 26pt;
+        
+        --byz-lyric-font-family: 'Alegreya', 'Almouzios';
+        --byz-lyric-font-size: 16pt;
+        --byz-lyric-offset-h: 3.6pt;
+        --byz-lyric-offset-v: 0pt;
+
+        --byz-drop-cap-font-family: 'Source Serif';
+        --byz-drop-cap-font-size: 60pt;
+        --byz-drop-cap-offset-v: 30.249999999999996pt;
+        --byz-drop-cap-color: #000000;
+
+        --byz-color-accidental: #ED0000;
+        --byz-color-agogi: #ED0000;
+        --byz-color-barline: #ED0000;
+        --byz-color-fthora: #ED0000;
+        --byz-color-gorgon: #ED0000;
+        --byz-color-heteron: #ED0000;
+        --byz-color-ison-indicator: #ED0000;
+        --byz-color-koronis: #ED0000;
+        --byz-color-martyria: #ED0000;
+        --byz-color-measure-number: #000000;
+        --byz-color-note-indicator: #ED0000;
+      }
+      
+      body {
+        
+        margin: 72pt 72pt 72pt 72pt;
+      }
+
+      
+
+      @page {
+        margin: 72pt 72pt 72pt 72pt;
+        size: A4 portrait
+      }
+
+      
+
+      @media print {
+        body {
+          margin: 0;
+        }
+      }
+
+      @media screen and (max-width: 768px) {
+        body {
+          margin: 24px;
+        }
+      }
+
+      x-ly {
+        color: #000000;
+        font-weight: 500;
+        font-style: normal;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
+      }
+
+      x-dc {
+        font-weight: 400;
+        font-style: normal;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+      }
+
+      x-gor, x-pel {
+        --byz-neume-font-size: 16pt;
+        line-height: 16pt;
+      }
+
+      x-m.byz--m-align-right {
+        margin-left: auto;
+      }
+
+      .byz--line-break {
+        margin-left: auto;
+      }
+
+      .byz--text-box {
+        white-space: break-spaces;
+        font-family: 'Source Serif';
+        font-size: 20pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
+      }
+
+      .byz--text-box-inline {
+        display: flex;
+        align-items: center;
+      }
+
+      .byz--text-box.byz--text-box-inline {
+        font-family: 'Alegreya', 'Almouzios';
+        font-size: 16pt;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
+      }
+
+      .byz---rich-text-box {
+        font-family: 'Source Serif', 'Almouzios';
+        font-size: 20pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+      }
+
+      .byz---rich-text-box.byz--text-box-inline {
+        font-family: 'Alegreya', 'Almouzios';
+        font-size: 16pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+      }
+
+      .byz---rich-text-box p.neanes-paragraph-style-default-text{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:26.666666666666668px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-annotation{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:21.333333333333332px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-title{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:37.333333333333336px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-subtitle{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:29.333333333333332px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-chapter{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:32px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-section{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:26.666666666666668px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-header{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:26.666666666666668px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-footer{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:26.666666666666668px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-lyrics{font-family:"Alegreya", "Almouzios";font-weight:500;font-style:normal;font-size:21.333333333333332px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-drop-cap{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:80px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+
+      .byz--image-box {
+        display: flex;
+        align-items: center;
+      }
+
+      .byz--mode-key {
+        position: relative;
+        font-size: 20pt;
+        color: #ED0000;
+        -webkit-text-stroke-width: 0;
+      }
+
+      .byz--mode-key-right-container {
+        position: absolute;
+        right: 0;
+      } 
+
+      .byz--mode-key-ambitus {
+        position: relative;
+        top: -4px;
+      }
+
+      .byz--mode-key-ambitus-text {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .byz--mode-key-ambitus-low {
+        margin-right: 10px;
+        position: relative;
+        top: -12px;
+      }
+
+      .byz--mode-key-ambitus-high {
+        margin-left: 2px;
+        margin-right: 4px;
+        position: relative;
+        top: -12px;
+      }
+
+      .byz--mode-key .byz--t {
+        position: relative;
+        top: -9pt;
+        margin-left: 8px;
+      }
+
+      .byz--mode-key .byz--t-align-right {
+        position: absolute;
+        right: 0;
+      }
+
+      .byz--neume-paragraph {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 26pt;
+      }
+
+      .byz--neume-paragraph:last-child {
+        margin-bottom: 0;
+      }
+
+      .byz--neume-paragraph-center {
+        justify-content: center;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div dir="auto" class="byz--text-box" style="color: #000000;font-family: 'Source Serif';font-size: 20pt;font-weight: 400;font-style: normal;line-height: normal;-webkit-text-stroke-width: 0;-webkit-text-stroke-color: currentcolor;text-align: center;">Title</div
+    ><div class="byz--mode-key" style="text-align: center;"
+      ><x-mode-word-echos></x-mode-word-echos
+      ><x-mode-first salt="1"></x-mode-first
+      ><x-mode-pa></x-mode-pa
+      ></div
+    ><div class="byz--neume-paragraph"
+      ><x-m
+        ><x-m-pa></x-m-pa
+        ><x-m-alpha></x-m-alpha
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ni></x-m-ni
+        ><x-m-delta></x-m-delta
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-zo></x-m-zo
+        ><x-m-varys></x-m-varys
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ke-low></x-m-ke-low
+        ><x-m-alpha-a></x-m-alpha-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-di-low></x-m-di-low
+        ><x-m-delta-a></x-m-delta-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ga-low></x-m-ga-low
+        ><x-m-nana-a></x-m-nana-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-vou-low></x-m-vou-low
+        ><x-m-legetos-a></x-m-legetos-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-pa-low></x-m-pa-low
+        ><x-m-alpha-a></x-m-alpha-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ni-low></x-m-ni-low
+        ><x-m-delta-a></x-m-delta-a
+        ></x-m
+      ><x-n
+        ><x-a></x-a
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-zo-low></x-m-zo-low
+        ><x-m-nana-a></x-m-nana-a
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-m
+        ><x-m-zo-low></x-m-zo-low
+        ><x-m-nana-a></x-m-nana-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ni-low></x-m-ni-low
+        ><x-m-delta-a></x-m-delta-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-pa-low></x-m-pa-low
+        ><x-m-alpha-a></x-m-alpha-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-vou-low></x-m-vou-low
+        ><x-m-legetos-a></x-m-legetos-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ga-low></x-m-ga-low
+        ><x-m-nana-a></x-m-nana-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-di-low></x-m-di-low
+        ><x-m-delta-a></x-m-delta-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ke-low></x-m-ke-low
+        ><x-m-alpha-a></x-m-alpha-a
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-zo></x-m-zo
+        ><x-m-varys></x-m-varys
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      ><div class="byz--neume-paragraph"
+      ><x-m
+        ><x-m-zo></x-m-zo
+        ><x-m-varys></x-m-varys
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-ni></x-m-ni
+        ><x-m-delta></x-m-delta
+        ></x-m
+      ><x-n
+        ><x-o></x-o
+        ><x-ly>α</x-ly
+      ></x-n
+      ><x-m
+        ><x-m-pa></x-m-pa
+        ><x-m-alpha></x-m-alpha
+        ></x-m
+      ><div class="byz--line-break"></div
+        ></div
+      >
+  </body>
+</html>
