@@ -59,19 +59,18 @@
     "minimumSyllableToHyphenClearance": 0,
     "martyriaVerticalOffset": 5.333333333333333,
     "chrysanthineAccidentals": true,
-    "alignIsonIndicators": true
+    "alignIsonIndicators": true,
+    "ignorePunctuationWhenPositioningLyrics": true
   },
   "paragraphStyles": [
     {
       "id": "default-text",
-      "displayName": "Default Text",
-      "fontSize": 26.666666666666668
+      "displayName": "Default Text"
     },
     {
       "id": "annotation",
       "displayName": "Annotation",
-      "parentStyleId": "default-text",
-      "fontSize": 16
+      "parentStyleId": "default-text"
     },
     {
       "id": "title",
@@ -115,8 +114,7 @@
     {
       "id": "lyrics",
       "displayName": "Lyrics",
-      "parentStyleId": "default-text",
-      "fontSize": 16
+      "parentStyleId": "default-text"
     },
     {
       "id": "drop-cap",
@@ -130,7 +128,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -147,7 +145,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -164,7 +162,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -181,7 +179,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -198,7 +196,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -217,7 +215,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -234,7 +232,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -251,7 +249,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -268,7 +266,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -285,7 +283,7 @@
       "elements": [
         {
           "elementType": "TextBox",
-          "alignment": "left",
+          "paragraphStyleId": "default-text",
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
@@ -314,8 +312,8 @@
         "color": "#000000",
         "fontSize": 26.666666666666668,
         "strokeWidth": 0,
-        "height": 46.333333333333336,
-        "heightAdjustment": -8.666666666666666,
+        "height": 46,
+        "heightAdjustment": 0,
         "marginTop": 0,
         "marginBottom": 0,
         "bpm": 120,
@@ -336,10 +334,10 @@
         "martyria": "ModeSign.AlphaWithDeltaHat",
         "note": "ModeSign.Ke",
         "color": "#000000",
-        "fontSize": 29.333333333333332,
+        "fontSize": 26.666666666666668,
         "strokeWidth": 0,
         "height": 46,
-        "heightAdjustment": -9,
+        "heightAdjustment": 0,
         "marginTop": 0,
         "marginBottom": 0,
         "bpm": 120,

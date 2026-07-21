@@ -2,10 +2,10 @@
   <head>
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/Neanes.css"
+      href="https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/Neanes.css"
     />
     
-    <script src="https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/byzhtml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/byzhtml.min.js"></script>
 
     
 
@@ -20,23 +20,24 @@
       @font-face {
         font-family: 'Almouzios';
         /* TODO change this */
-        /* src: url(https://cdn.jsdelivr.net/gh/danielgarthur/byzhtml@1.0.24/dist/Almouzios.otf); */
-        /* src: url(https://cdn.jsdelivr.net/gh/ilizol/Almouzios/Almouzios.otf); */
+        /* src: url(https://cdn.jsdelivr.net/gh/neanes/byzhtml@1.0.26/dist/Almouzios.otf); */
+        src: url(https://cdn.jsdelivr.net/gh/ilizol/Almouzios/Almouzios.otf);
         /* TODO change this for debug */
-        src: url(../../Almouzios/Almouzios.otf);
+        /* src: url(../../Almouzios/Almouzios.otf); */
         unicode-range: U+E000–F8FF;
       }
 
       :root {
+        
         --byz-neume-font-family: Almouzios;
         --byz-neume-font-size: 20pt;
         
-        --byz-lyric-font-family: Source Serif;
+        --byz-lyric-font-family: 'Source Serif', 'Almouzios';
         --byz-lyric-font-size: 12pt;
         --byz-lyric-offset-h: 3.6pt;
         --byz-lyric-offset-v: 0pt;
 
-        --byz-drop-cap-font-family: Source Serif;
+        --byz-drop-cap-font-family: 'Source Serif';
         --byz-drop-cap-font-size: 60pt;
         --byz-drop-cap-offset-v: 18pt;
         --byz-drop-cap-color: #000000;
@@ -55,13 +56,18 @@
       }
       
       body {
-        margin: 72px 72px 72px 72px;
+        
+        margin: 72pt 72pt 72pt 72pt;
       }
 
+      
+
       @page {
-        margin: 72px 72px 72px 72px;
-        size: Letter portrait
+        margin: 72pt 72pt 72pt 72pt;
+        size: A4 portrait
       }
+
+      
 
       @media print {
         body {
@@ -77,12 +83,18 @@
 
       x-ly {
         color: #000000;
+        font-weight: 400;
+        font-style: normal;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
       }
 
       x-dc {
         font-weight: 400;
         font-style: normal;
         -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
       }
 
       x-gor, x-pel {
@@ -100,12 +112,14 @@
 
       .byz--text-box {
         white-space: break-spaces;
-        font-family: Source Serif;
-        font-size: 20pt;
+        font-family: 'Source Serif';
+        font-size: 12pt;
         font-weight: 400;
         font-style: normal;
         color: #000000;
         -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
       }
 
       .byz--text-box-inline {
@@ -113,10 +127,43 @@
         align-items: center;
       }
 
-      .byz---rich-text-box {
-        font-family: Source Serif;
-        font-size: 20pt;
+      .byz--text-box.byz--text-box-inline {
+        font-family: 'Source Serif', 'Almouzios';
+        font-size: 12pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+        -webkit-text-stroke-width: 0;
+        -webkit-text-stroke-color: currentcolor;
+        text-decoration: none;
       }
+
+      .byz---rich-text-box {
+        font-family: 'Source Serif', 'Almouzios';
+        font-size: 12pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+      }
+
+      .byz---rich-text-box.byz--text-box-inline {
+        font-family: 'Source Serif', 'Almouzios';
+        font-size: 12pt;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+      }
+
+      .byz---rich-text-box p.neanes-paragraph-style-default-text{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:16px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-annotation{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:16px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-title{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:37.333333333333336px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-subtitle{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:29.333333333333332px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-chapter{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:32px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-section{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:26.666666666666668px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-header{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:16px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-footer{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:16px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:center;}
+.byz---rich-text-box p.neanes-paragraph-style-lyrics{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:16px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
+.byz---rich-text-box p.neanes-paragraph-style-drop-cap{font-family:"Source Serif", "Almouzios";font-weight:400;font-style:normal;font-size:80px;color:#000000;-webkit-text-stroke-width:0px;-webkit-text-stroke-color:currentcolor;line-height:normal;text-align:left;}
 
       .byz--image-box {
         display: flex;
@@ -178,7 +225,7 @@
 
       x-m {
         margin-bottom: 28pt;
-        margin-right: 8pt;
+        margin-right: 1pt;
       }
 
       .byz--neume-paragraph:last-child {
