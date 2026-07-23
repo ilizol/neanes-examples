@@ -29,7 +29,7 @@
 
 ~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/Martyrias_almouzios.byzx
 
-# ~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
+~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
 
 # ~/Projects/neanes/release/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
 
