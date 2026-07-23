@@ -22,12 +22,12 @@
 # find ../tests -type f -name 'Accidentals*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 # find ../tests -type f -name 'Expressions*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 # find ../tests -type f -name 'Hapli*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
-find ../tests -type f -name 'Hyporoe*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../tests -type f -name 'Hyporoe*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 # find ../tests -type f -name 'Ison*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 # find ../tests -type f -name 'ModeKey*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 # find ../tests -type f -name 'NoteIndicators*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
-# ~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
+~/Projects/neanes/release/neanes-cli --silent-pdf ../tests/MartyriaFthora_almouzios.byzx
 
 # ~/Projects/neanes/release/neanes-cli --silent-html ../tests/MartyriaFthora_almouzios.byzx
 
