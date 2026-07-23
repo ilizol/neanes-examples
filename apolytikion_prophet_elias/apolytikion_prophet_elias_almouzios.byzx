@@ -399,7 +399,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -431,7 +430,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -463,7 +461,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -483,7 +480,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -516,7 +512,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -536,7 +531,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -559,14 +553,27 @@
         "auto": true,
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -0.6666666666666666
+        "scale": "SoftChromatic"
       },
       {
         "id": 107,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "lyrics": "ο"
+      },
+      {
+        "id": 209,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 46,
+        "customWidth": 2.6666666666666665,
+        "marginTop": 0,
+        "marginBottom": 0
       },
       {
         "id": 108,
@@ -596,7 +603,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 8,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -628,7 +635,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 8,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -648,7 +655,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 8,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -687,7 +694,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 8,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -713,7 +720,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 8,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -752,7 +759,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 10.666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -812,7 +818,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 10.666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },

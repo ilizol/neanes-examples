@@ -559,14 +559,27 @@
         "auto": true,
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -8.666666666666666
+        "scale": "SoftChromatic"
       },
       {
         "id": 134,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "lyrics": "ο"
+      },
+      {
+        "id": 221,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "customWidth": 2.6666666666666665,
+        "marginTop": 0,
+        "marginBottom": 0
       },
       {
         "id": 135,
@@ -596,7 +609,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 12,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -628,7 +641,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 12,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -648,7 +661,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 12,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -687,7 +700,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 12,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -713,7 +726,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 12,
+        "customWidth": 2.6666666666666665,
         "marginTop": 0,
         "marginBottom": 0
       },
