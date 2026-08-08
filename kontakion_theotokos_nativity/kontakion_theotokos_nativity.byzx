@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.51",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -382,6 +382,7 @@
         "id": 4,
         "elementType": "DropCap",
         "content": "Ι",
+        "customWidth": 14,
         "lineSpan": 1
       },
       {
@@ -417,7 +418,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 5.333333333333333,
+        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -437,7 +438,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 5.333333333333333,
+        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -464,7 +465,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 5.333333333333333,
+        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -503,7 +504,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 5.333333333333333,
+        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -825,7 +826,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -873,7 +873,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -882,6 +881,19 @@
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "lyrics": "τη"
+      },
+      {
+        "id": 373,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "marginTop": 0,
+        "marginBottom": 0
       },
       {
         "id": 289,
@@ -911,7 +923,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -944,7 +955,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -986,7 +996,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1024,7 +1033,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1044,7 +1052,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1053,6 +1060,19 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "lyrics": "ο"
+      },
+      {
+        "id": 374,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "marginTop": 0,
+        "marginBottom": 0
       },
       {
         "id": 311,
@@ -1087,7 +1107,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1136,7 +1155,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1156,7 +1174,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1189,7 +1206,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1221,7 +1237,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1241,7 +1256,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1250,6 +1264,19 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "lyrics": "τω"
+      },
+      {
+        "id": 375,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "marginTop": 0,
+        "marginBottom": 0
       },
       {
         "id": 334,
@@ -1438,13 +1465,7 @@
         "lyrics": "φον"
       },
       {
-        "id": 358,
-        "elementType": "Note",
-        "quantitativeNeume": "Apostrophos",
-        "lyrics": "της"
-      },
-      {
-        "id": 359,
+        "id": 376,
         "elementType": "TextBox",
         "content": "",
         "contentBottom": "",
@@ -1455,6 +1476,12 @@
         "height": 65,
         "marginTop": 0,
         "marginBottom": 0
+      },
+      {
+        "id": 358,
+        "elementType": "Note",
+        "quantitativeNeume": "Apostrophos",
+        "lyrics": "της"
       },
       {
         "id": 360,
