@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -591,8 +591,7 @@
         "quantitativeNeume": "Hyporoe",
         "gorgonNeume": "Gorgon_Top",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true,
-        "spaceAfter": -2
+        "isMelisma": true
       },
       {
         "id": 20,
@@ -1123,7 +1122,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1211,7 +1209,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1231,7 +1228,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1257,7 +1253,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1388,6 +1383,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 2,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1459,6 +1455,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 2,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1491,6 +1488,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 2,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1562,6 +1560,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 2,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1685,8 +1684,7 @@
         "auto": true,
         "note": "Ni",
         "rootSign": "Delta",
-        "scale": "Diatonic",
-        "spaceAfter": -4
+        "scale": "Diatonic"
       },
       {
         "id": 84,
@@ -1710,7 +1708,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1746,7 +1743,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1755,8 +1751,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "σοι",
-        "spaceAfter": -5.333333333333333
+        "lyrics": "σοι"
       },
       {
         "id": 105,
@@ -1764,8 +1759,7 @@
         "auto": true,
         "note": "Thi",
         "rootSign": "DeltaDotted",
-        "scale": "Diatonic",
-        "spaceAfter": -10.666666666666666
+        "scale": "Diatonic"
       },
       {
         "id": 107,
@@ -1789,7 +1783,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1822,7 +1815,6 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1868,8 +1860,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "timeNeume": "Dipli",
-        "lyrics": "τε",
-        "spaceAfter": -5.333333333333333
+        "lyrics": "τε"
       },
       {
         "id": 104,
@@ -1877,8 +1868,7 @@
         "auto": true,
         "note": "Ni",
         "rootSign": "Delta",
-        "scale": "Diatonic",
-        "spaceAfter": -4
+        "scale": "Diatonic"
       },
       {
         "elementType": "Empty"

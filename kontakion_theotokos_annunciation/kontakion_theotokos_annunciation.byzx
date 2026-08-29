@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -1383,7 +1383,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 6.666666666666667,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1455,7 +1454,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 6.666666666666667,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1488,7 +1486,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 6.666666666666667,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1560,7 +1557,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 6.666666666666667,
         "marginTop": 0,
         "marginBottom": 0
       },
