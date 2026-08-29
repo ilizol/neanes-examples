@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.51",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -1301,6 +1301,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1335,6 +1336,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1360,6 +1362,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1386,6 +1389,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1405,6 +1409,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1433,6 +1438,20 @@
         "lyrics": "κον"
       },
       {
+        "id": 377,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "customWidth": 3.3333333333333335,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
         "id": 354,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
@@ -1448,6 +1467,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1474,6 +1494,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
