@@ -46,7 +46,7 @@
 # find ../apolytikion_holy_epiphany* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_prophet_elias
-# find ../apolytikion_prophet_elias* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+find ../apolytikion_prophet_elias* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_saint_basil_great
 # find ../apolytikion_saint_basil_great* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
@@ -82,7 +82,7 @@
 # find ../kontakion_theotokos_annunciation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_theotokos_nativity
-find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../kontakion_theotokos_nativity* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion_transfiguration
 # find ../kontakion_transfiguration* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
