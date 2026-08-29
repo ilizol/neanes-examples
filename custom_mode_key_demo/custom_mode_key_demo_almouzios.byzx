@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -316,7 +316,7 @@
       {
         "id": 175,
         "elementType": "RichTextBox",
-        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Neanes;font-style:normal;font-weight:700;\">Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</span></p>",
+        "content": "<p style=\"text-align:center;\"><span style=\"color:hsl(0,100%,25%);font-family:'GFS Didot', Neanes, Almouzios;font-style:normal;font-weight:700;\">Τη Τετάρτη της Μεσοπεντηκοστής. Πέτρου του</span></p>",
         "contentBottom": "",
         "contentLeft": "",
         "contentRight": "",
@@ -416,7 +416,6 @@
       {
         "id": 18,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Thi",
@@ -616,7 +615,6 @@
       {
         "id": 45,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Note",
         "quantitativeNeume": "Elaphron",
         "timeNeume": "Klasma_Top",
@@ -669,6 +667,7 @@
         "id": 52,
         "elementType": "DropCap",
         "content": "Τ",
+        "customWidth": 24.666666666666668,
         "lineSpan": 1
       },
       {
@@ -812,13 +811,11 @@
       {
         "id": 72,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Pa",
         "rootSign": "Squiggle",
-        "scale": "HardChromatic",
-        "spaceAfter": -2
+        "scale": "HardChromatic"
       },
       {
         "id": 73,
@@ -916,7 +913,6 @@
         "rootSign": "Tilt",
         "scale": "HardChromatic",
         "alignRight": true,
-        "spaceAfter": -2.6666666666666665,
         "verticalOffset": 10.666666666666666
       },
       {
@@ -1118,6 +1114,7 @@
         "id": 109,
         "elementType": "DropCap",
         "content": "Α",
+        "customWidth": 29.333333333333332,
         "lineSpan": 1
       },
       {
@@ -1287,8 +1284,7 @@
         "auto": true,
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -0.6666666666666666
+        "scale": "SoftChromatic"
       },
       {
         "id": 130,
@@ -1361,7 +1357,6 @@
       {
         "id": 138,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Vou",
@@ -1540,8 +1535,7 @@
         "id": 162,
         "elementType": "Note",
         "quantitativeNeume": "Hyporoe",
-        "gorgonNeume": "Gorgon_Top",
-        "spaceAfter": -1.3333333333333333
+        "gorgonNeume": "Gorgon_Top"
       },
       {
         "id": 163,

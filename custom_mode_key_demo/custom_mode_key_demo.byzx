@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -416,7 +416,6 @@
       {
         "id": 18,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Thi",
@@ -616,7 +615,6 @@
       {
         "id": 45,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Note",
         "quantitativeNeume": "Elaphron",
         "timeNeume": "Klasma_Top",
@@ -813,7 +811,6 @@
       {
         "id": 72,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Pa",
@@ -1362,7 +1359,6 @@
       {
         "id": 138,
         "lineBreak": true,
-        "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
         "note": "Vou",
