@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -1210,6 +1210,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1279,6 +1280,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1298,6 +1300,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1323,6 +1326,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
+        "customWidth": 3.3333333333333335,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1335,6 +1339,7 @@
       {
         "id": 125,
         "elementType": "Note",
+        "keepWithNext": true,
         "quantitativeNeume": "Apostrophos",
         "lyrics": "στω",
         "isMelisma": true,
@@ -1346,8 +1351,7 @@
         "quantitativeNeume": "Hyporoe",
         "gorgonNeume": "Gorgon_Top",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true,
-        "spaceAfter": -1.3333333333333333
+        "isMelisma": true
       },
       {
         "id": 127,
