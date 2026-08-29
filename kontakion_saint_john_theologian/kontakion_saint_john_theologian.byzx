@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "appVersion": "0.5.45",
+  "appVersion": "0.5.53",
   "pageSetup": {
     "pageSize": "A4",
     "pageSizeUnit": "pt",
@@ -389,8 +389,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "ison": "Ison.Unison",
-        "lyrics": "α",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "α"
       },
       {
         "id": 6,
@@ -410,15 +409,13 @@
         "id": 7,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "με",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "με"
       },
       {
         "id": 8,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "γα",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "γα"
       },
       {
         "id": 9,
@@ -426,24 +423,21 @@
         "quantitativeNeume": "Elaphron",
         "lyrics": "λει",
         "isMelisma": true,
-        "isMelismaStart": true,
-        "spaceAfter": -2.6666666666666665
+        "isMelismaStart": true
       },
       {
         "id": 10,
         "elementType": "Note",
         "quantitativeNeume": "KentemataPlusOligon",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true,
-        "spaceAfter": -0.6666666666666666
+        "isMelisma": true
       },
       {
         "id": 11,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "ison": "Ison.Thi",
-        "lyrics": "α",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "α"
       },
       {
         "id": 12,
@@ -463,8 +457,7 @@
         "id": 13,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "σου",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "σου"
       },
       {
         "id": 14,
@@ -484,8 +477,7 @@
         "id": 15,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "Παρ",
-        "spaceAfter": -4.666666666666667
+        "lyrics": "Παρ"
       },
       {
         "id": 16,
@@ -497,8 +489,7 @@
         "id": 17,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "νε",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "νε"
       },
       {
         "id": 18,
@@ -518,8 +509,7 @@
         "id": 19,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "τις",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "τις"
       },
       {
         "id": 20,
@@ -539,15 +529,13 @@
         "id": 21,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "δι",
-        "spaceAfter": -2.6666666666666665
+        "lyrics": "δι"
       },
       {
         "id": 22,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "η",
-        "spaceAfter": -4
+        "lyrics": "η"
       },
       {
         "id": 23,
@@ -577,8 +565,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "ται",
-        "spaceAfter": -8.666666666666666
+        "lyrics": "ται"
       },
       {
         "id": 27,
@@ -586,15 +573,13 @@
         "auto": true,
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -1.3333333333333333
+        "scale": "SoftChromatic"
       },
       {
         "id": 28,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "βρυ",
-        "spaceAfter": -1.3333333333333333
+        "lyrics": "βρυ"
       },
       {
         "id": 29,
@@ -640,8 +625,7 @@
         "id": 33,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "θαυ",
-        "spaceAfter": -1.3333333333333333
+        "lyrics": "θαυ"
       },
       {
         "id": 34,
@@ -756,8 +740,7 @@
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
         "ison": "Ison.Thi",
-        "lyrics": "τα",
-        "spaceAfter": -6
+        "lyrics": "τα"
       },
       {
         "id": 48,
@@ -783,7 +766,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -815,7 +797,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -841,7 +822,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -861,7 +841,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -888,7 +867,6 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
-        "customWidth": 0.6666666666666666,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -903,8 +881,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "μων",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "μων"
       },
       {
         "id": 65,
@@ -920,20 +897,6 @@
         "quantitativeNeume": "Elaphron",
         "ison": "Ison.Unison",
         "lyrics": "ως"
-      },
-      {
-        "id": 67,
-        "elementType": "TextBox",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "inline": true,
-        "height": 65,
-        "customWidth": 0.6666666666666666,
-        "marginTop": 0,
-        "marginBottom": 0
       },
       {
         "id": 68,
