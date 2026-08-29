@@ -550,8 +550,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
-        "lyrics": "ας",
-        "spaceAfter": -5.333333333333333
+        "lyrics": "ας"
       },
       {
         "id": 249,
@@ -559,8 +558,7 @@
         "auto": true,
         "note": "Vou",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -5.333333333333333
+        "scale": "SoftChromatic"
       },
       {
         "id": 250,
@@ -768,8 +766,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
-        "lyrics": "του",
-        "spaceAfter": -8
+        "lyrics": "του"
       },
       {
         "id": 273,
@@ -777,8 +774,7 @@
         "auto": true,
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -8
+        "scale": "SoftChromatic"
       },
       {
         "id": 274,
@@ -963,8 +959,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "σου",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "σου"
       },
       {
         "id": 298,
@@ -1115,8 +1110,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "timeNeume": "Klasma_Top",
-        "lyrics": "σου",
-        "spaceAfter": -4
+        "lyrics": "σου"
       },
       {
         "id": 316,
@@ -1124,8 +1118,7 @@
         "auto": true,
         "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
-        "scale": "SoftChromatic",
-        "spaceAfter": -2.6666666666666665
+        "scale": "SoftChromatic"
       },
       {
         "id": 317,
