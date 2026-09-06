@@ -2901,7 +2901,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "timeNeume": "Klasma_Top",
-        "vocalExpressionNeume": "HomalonConnecting",
+        "vocalExpressionNeume": "Homalon",
         "lyrics": "θρο",
         "spaceAfter": -2
       },
@@ -2981,6 +2981,7 @@
       {
         "id": 403,
         "elementType": "Note",
+        "keepWithNext": true,
         "quantitativeNeume": "Apostrophos",
         "lyrics": "η"
       },
