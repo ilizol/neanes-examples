@@ -1017,6 +1017,7 @@
       {
         "id": 85,
         "elementType": "Note",
+        "keepWithNext": true,
         "quantitativeNeume": "Petasti",
         "lyrics": "ω"
       },
@@ -1170,7 +1171,6 @@
       {
         "id": 106,
         "elementType": "Note",
-        "keepWithNext": true,
         "quantitativeNeume": "Ison",
         "lyrics": "υ"
       },
@@ -1199,7 +1199,7 @@
         "lyrics": "σας"
       },
       {
-        "id": 111,
+        "id": 194,
         "elementType": "TextBox",
         "content": "",
         "contentBottom": "",
@@ -1287,6 +1287,7 @@
       {
         "id": 122,
         "elementType": "Note",
+        "keepWithNext": true,
         "quantitativeNeume": "Oligon",
         "lyrics": "λι"
       },
@@ -1295,19 +1296,6 @@
         "elementType": "Note",
         "quantitativeNeume": "Ison",
         "lyrics": "σω"
-      },
-      {
-        "id": 191,
-        "elementType": "TextBox",
-        "content": "",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "inline": true,
-        "height": 65,
-        "marginTop": 0,
-        "marginBottom": 0
       },
       {
         "id": 125,
@@ -1468,6 +1456,19 @@
         "lyrics": "εν"
       },
       {
+        "id": 195,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
         "id": 144,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
@@ -1504,6 +1505,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1535,6 +1537,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1554,6 +1557,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1592,6 +1596,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1611,6 +1616,7 @@
         "contentRight": "",
         "inline": true,
         "height": 65,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
