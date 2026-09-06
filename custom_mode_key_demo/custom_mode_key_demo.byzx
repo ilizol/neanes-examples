@@ -684,9 +684,7 @@
         "timeNeume": "Dipli",
         "vocalExpressionNeume": "HeteronConnecting",
         "vareia": true,
-        "lyrics": "τη",
-        "vocalExpressionNeumeOffsetX": -0.1875,
-        "vocalExpressionNeumeOffsetY": 0.056249999999999994
+        "lyrics": "τη"
       },
       {
         "id": 55,
