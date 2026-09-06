@@ -61,7 +61,10 @@
 # find ../apolytikion_saint_john_chrysostom* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # custom_mode_key_demo
-find ../custom_mode_key_demo* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../custom_mode_key_demo* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+
+# idiomela_holy_cross_elevation
+find ../idiomela_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion
 # find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
