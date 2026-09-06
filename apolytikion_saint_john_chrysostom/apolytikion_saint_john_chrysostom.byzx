@@ -811,9 +811,7 @@
         "quantitativeNeume": "Oligon",
         "vocalExpressionNeume": "Psifiston",
         "accidental": "Flat_2_Right",
-        "lyrics": "ρους",
-        "accidentalOffsetX": -0.4759615384615385,
-        "accidentalOffsetY": 0.1
+        "lyrics": "ρους"
       },
       {
         "id": 59,
@@ -1190,9 +1188,7 @@
         "quantitativeNeume": "Oligon",
         "vocalExpressionNeume": "Psifiston",
         "accidental": "Flat_2_Right",
-        "lyrics": "αν",
-        "accidentalOffsetX": -0.4759615384615385,
-        "accidentalOffsetY": 0.1
+        "lyrics": "αν"
       },
       {
         "id": 107,
@@ -1253,9 +1249,7 @@
         "quantitativeNeume": "OligonPlusKentimaBelow",
         "vocalExpressionNeume": "Psifiston",
         "accidental": "Flat_2_Right",
-        "lyrics": "πρε",
-        "accidentalOffsetX": -0.48,
-        "accidentalOffsetY": 0.1
+        "lyrics": "πρε"
       },
       {
         "id": 115,
