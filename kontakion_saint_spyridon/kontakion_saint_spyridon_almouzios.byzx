@@ -906,7 +906,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -933,7 +933,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -962,8 +962,7 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "νος",
-        "spaceAfter": 0.6666666666666666
+        "lyrics": "νος"
       },
       {
         "id": 78,
@@ -1009,7 +1008,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
@@ -1035,7 +1034,7 @@
         "contentRight": "",
         "inline": true,
         "height": 46,
-        "customWidth": 0.6666666666666666,
+        "customWidth": 1.3333333333333333,
         "marginTop": 0,
         "marginBottom": 0
       },
