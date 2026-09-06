@@ -513,8 +513,7 @@
         "vareia": true,
         "lyrics": "σι",
         "isMelisma": true,
-        "isMelismaStart": true,
-        "vareiaOffsetX": 0.1
+        "isMelismaStart": true
       },
       {
         "id": 97,
@@ -955,8 +954,7 @@
         "vareia": true,
         "lyrics": "σι",
         "isMelisma": true,
-        "isMelismaStart": true,
-        "vareiaOffsetX": 0.1
+        "isMelismaStart": true
       },
       {
         "id": 77,
