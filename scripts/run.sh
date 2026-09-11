@@ -49,7 +49,7 @@
 # find ../apolytikion_prophet_elias* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_prophet_john_forerunner
-# find ../apolytikion_prophet_john_forerunner* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+find ../apolytikion_prophet_john_forerunner* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # apolytikion_saint_basil_great
 # find ../apolytikion_saint_basil_great* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
@@ -64,7 +64,7 @@
 # find ../custom_mode_key_demo* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # idiomela_holy_cross_elevation
-find ../idiomela_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
+# find ../idiomela_holy_cross_elevation* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
 
 # kontakion
 # find ../kontakion* -type f -name '*.byzx' -print0 | xargs -0 ~/Projects/neanes/release/neanes-cli --silent-pdf
