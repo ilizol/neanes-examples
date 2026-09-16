@@ -894,7 +894,6 @@
       {
         "id": 51,
         "elementType": "Note",
-        "keepWithNext": true,
         "quantitativeNeume": "Apostrophos",
         "acceptsLyrics": "MelismaOnly",
         "isMelisma": true
@@ -976,7 +975,8 @@
         "quantitativeNeume": "IsonPlusApostrophos",
         "vareia": true,
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -8
       },
       {
         "id": 62,
@@ -1365,7 +1365,8 @@
         "quantitativeNeume": "IsonPlusApostrophos",
         "vareia": true,
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -8
       },
       {
         "id": 98,
@@ -1674,7 +1675,8 @@
         "lyrics": "πε",
         "isMelisma": true,
         "isMelismaStart": true,
-        "isHyphen": true
+        "isHyphen": true,
+        "spaceAfter": -6.666666666666667
       },
       {
         "id": 134,
@@ -1736,7 +1738,8 @@
         "quantitativeNeume": "IsonPlusApostrophos",
         "vareia": true,
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -8
       },
       {
         "id": 142,
@@ -1879,7 +1882,8 @@
         "lyrics": "κι",
         "isMelisma": true,
         "isMelismaStart": true,
-        "isHyphen": true
+        "isHyphen": true,
+        "spaceAfter": -4.666666666666667
       },
       {
         "id": 157,
@@ -1967,7 +1971,8 @@
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -2.6666666666666665
       },
       {
         "id": 167,
