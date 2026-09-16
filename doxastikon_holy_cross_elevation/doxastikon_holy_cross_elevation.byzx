@@ -477,6 +477,19 @@
         "lyrics": "ος"
       },
       {
+        "id": 706,
+        "elementType": "TextBox",
+        "content": "",
+        "contentBottom": "",
+        "contentLeft": "",
+        "contentCenter": "",
+        "contentRight": "",
+        "inline": true,
+        "height": 65,
+        "marginTop": 0,
+        "marginBottom": 0
+      },
+      {
         "id": 417,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
@@ -1655,30 +1668,26 @@
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "vocalExpressionNeume": "Psifiston",
-        "lyrics": "φι",
-        "spaceAfter": -3.3333333333333335
+        "lyrics": "φι"
       },
       {
         "id": 556,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "λα",
-        "spaceAfter": -1.3333333333333333
+        "lyrics": "λα"
       },
       {
         "id": 557,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "αν",
-        "spaceAfter": -0.6666666666666666
+        "lyrics": "αν"
       },
       {
         "id": 558,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
         "timeNeume": "Klasma_Top",
-        "lyrics": "θρω",
-        "spaceAfter": -2.6666666666666665
+        "lyrics": "θρω"
       },
       {
         "id": 559,
@@ -1688,7 +1697,7 @@
         "isMelisma": true,
         "isMelismaStart": true,
         "isHyphen": true,
-        "spaceAfter": -7.333333333333333
+        "spaceAfter": -6
       },
       {
         "id": 560,
@@ -1704,21 +1713,23 @@
         "lyrics": "σα",
         "isMelisma": true,
         "isMelismaStart": true,
-        "spaceAfter": -2.6666666666666665
+        "spaceAfter": -1.3333333333333333
       },
       {
         "id": 562,
         "elementType": "Note",
         "quantitativeNeume": "Kentemata",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -2.6666666666666665
       },
       {
         "id": 563,
         "elementType": "Note",
         "quantitativeNeume": "OligonPlusIsonPlusKentemata",
         "acceptsLyrics": "MelismaOnly",
-        "isMelisma": true
+        "isMelisma": true,
+        "spaceAfter": -2.6666666666666665
       },
       {
         "id": 564,
@@ -1727,7 +1738,8 @@
         "gorgonNeume": "GorgonDottedRight",
         "lyrics": "με",
         "isMelisma": true,
-        "isMelismaStart": true
+        "isMelismaStart": true,
+        "spaceAfter": -2.6666666666666665
       },
       {
         "id": 565,
@@ -1752,7 +1764,7 @@
         "vareia": true,
         "acceptsLyrics": "MelismaOnly",
         "isMelisma": true,
-        "spaceAfter": -2.6666666666666665
+        "spaceAfter": -5.333333333333333
       },
       {
         "id": 568,
